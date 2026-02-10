@@ -4,7 +4,7 @@
 This is a **documentation-only repository** containing European campervan travel itineraries. There is no code to build, test, or run. All content is written in Markdown format.
 
 **Purpose:** Detailed travel planning guides for campervan trips from Netherlands across Europe  
-**Format:** Markdown documentation organized by trip duration  
+**Format:** Markdown documentation in single directory  
 **Style:** Hub-and-spoke travel model (stay 2-3 nights per campsite, day trips by car)
 
 ---
@@ -15,15 +15,13 @@ This is a **documentation-only repository** containing European campervan travel
 travel/
 ├── README.md                          # Main overview and guide
 ├── itineraries/
-│   ├── 10-day/                       # 10-day trip itineraries
-│   │   ├── 01-norwegian-fjords.md
-│   │   └── 02-alpine-lakes.md
-│   ├── 15-day/                       # 15-day trip itineraries
-│   │   ├── 01-scottish-highlands.md
-│   │   ├── 02-adriatic-coast.md
-│   │   ├── 03-french-spanish-atlantic.md
-│   │   ├── 04-italian-lakes-mountains.md
-│   │   └── 05-croatia-slovenia.md
+│   ├── 01-norwegian-fjords.md        # 10-day trip
+│   ├── 02-alpine-lakes.md            # 10-day trip
+│   ├── 01-scottish-highlands.md      # 15-day trip
+│   ├── 02-adriatic-coast.md          # 15-day trip
+│   ├── 03-french-spanish-atlantic.md # 15-day trip
+│   ├── 04-italian-lakes-mountains.md # 15-day trip
+│   ├── croatia-slovenia.md           # 18-day trip
 │   └── archive-original-itinerary.md # Original unstructured version
 ```
 
@@ -52,6 +50,24 @@ Each itinerary file should follow this structure:
 **Total Campervan Distance:** ~[X] km
 **Driving Style:** [Description]
 **Campsites:** [Strategy]
+
+---
+
+## Quick Navigation
+**Jump to Campsite Hubs:**
+- [Hub #1: Location](#campsite-hub-1-location)
+- [Hub #2: Location](#campsite-hub-2-location)
+- [Hub #3: Location](#campsite-hub-3-location)
+
+---
+
+## Campsite Schedule at a Glance
+
+| Hub # | Location | Check-in Date | Check-out Date | Nights | Days |
+|-------|----------|---------------|----------------|--------|------|
+| 1 | [Location] | [Date] | [Date] | [N] | [Day X-Y] |
+| 2 | [Location] | [Date] | [Date] | [N] | [Day X-Y] |
+| 3 | [Location] | [Date] | [Date] | [N] | [Day X-Y] |
 
 ---
 
@@ -162,6 +178,8 @@ Every itinerary MUST follow this pattern:
 ### 5. Essential Information Sections
 
 Every itinerary must include:
+- ✅ Quick navigation links to all campsite hubs
+- ✅ Campsite schedule table with check-in/check-out dates
 - ✅ Day-by-day breakdown
 - ✅ Campsite recommendations with costs
 - ✅ Budget estimate table
@@ -213,11 +231,12 @@ Use these exact terms:
 
 ### Adding New Itinerary
 
-1. **Determine duration:** 10-day or 15-day
-2. **Create file:** `itineraries/[duration]/0X-[name].md`
-3. **Follow structure:** Use existing itineraries as template
-4. **Update README.md:**
-   - Add to appropriate section (10-day or 15-day)
+1. **Create file:** `itineraries/[name].md` (use descriptive name with optional duration suffix)
+2. **Follow structure:** Use existing itineraries as template
+3. **Include quick navigation links** to all campsite hubs at the top
+4. **Add campsite schedule table** showing check-in/check-out dates
+5. **Update README.md:**
+   - Add to appropriate section based on duration
    - Add to comparison chart
    - Update "Choosing Your Itinerary" section if relevant
 

@@ -7,7 +7,39 @@
 **Driving Style:** Long initial/return drives, hub stays (2-3 nights)  
 **Campsites:** Strategic bases from Slovenian Alps to Dubrovnik
 
+**🚴 Bringing Bicycles?** This itinerary is enhanced with bikes! See dedicated cycling sections throughout and the [Cycling Guide](#-cycling-guide---best-bike-routes) in Practical Tips. Bikes save money (€25-30) and add wonderful flexibility at Lake Bled, Rovinj forest trails, and Dubrovnik coastal routes.
+
 **Note on Timing:** This trip is scheduled for late May/early June. Water will be cooler than the recommended late September timing (see Seasonal Considerations section), but you'll experience spring landscapes, wildflowers, and fewer crowds.
+
+---
+
+## Quick Navigation
+**Jump to Campsite Hubs:**
+- [Hub #1: Lake Bled & Bohinj, Slovenia](#campsite-hub-1-lake-bled--bohinj-slovenia)
+- [Hub #2: Ljubljana & Surroundings](#campsite-hub-2-ljubljana--surroundings)
+- [Hub #3: Rovinj, Croatia (Istrian Peninsula)](#campsite-hub-3-rovinj-croatia-istrian-peninsula)
+- [Hub #4: Zadar / Šibenik Region](#campsite-hub-4-zadar--šibenik-region)
+- [Hub #5: Split & Central Dalmatia](#campsite-hub-5-split--central-dalmatia)
+- [Hub #6: Dubrovnik - "Pearl of the Adriatic"](#campsite-hub-6-dubrovnik---pearl-of-the-adriatic)
+
+---
+
+## Campsite Schedule at a Glance
+
+| Hub # | Location | Check-in Date | Check-out Date | Nights | Days |
+|-------|----------|---------------|----------------|--------|------|
+| Transit | Munich/Salzburg area | May 30 | May 31 | 1 | Day 1 |
+| 1 | Lake Bled, Slovenia | May 31 | June 3 | 3 | Days 2-4 |
+| 2 | Ljubljana/Postojna, Slovenia | June 3 | June 5 | 2 | Days 5-6 |
+| 3 | Rovinj, Croatia (Istria) | June 5 | June 7 | 2 | Days 7-9 |
+| 4 | Šibenik/Zadar, Croatia | June 7 | June 10 | 3 | Days 10-12 |
+| 5 | Split, Croatia | June 10 | June 12 | 2 | Days 13-14 |
+| 6 | Dubrovnik, Croatia | June 12 | June 14 | 2 | Days 15-16 |
+| Return | Slovenia/Austria border | June 15 | June 16 | 1 | Day 17 |
+
+**Total Camping Nights:** 16  
+**Departure:** Friday, May 30 at 2:00 PM  
+**Return:** Monday, June 16 around 7-8 PM
 
 ---
 
@@ -37,6 +69,7 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 ---
 
 ## CAMPSITE HUB #1: Lake Bled & Bohinj, Slovenia
+**Map:** https://maps.app.goo.gl/zXmDZEKVrQkESVu89
 **Location:** Bled  
 **Nights:** 3 nights (May 31 - June 2)  
 **Dates:** Saturday May 31 - Monday June 2  
@@ -53,11 +86,18 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 #### Afternoon: Lake Bled Arrival
 - Arrive early afternoon
 - Setup campsite
-- **Walk around lake:** 6 km circuit (90 minutes)
+- **Lake circuit:** 6 km loop
+  - **Option 1 - Bike:** 45-60 minutes leisurely (recommended - saves time!)
+  - **Option 2 - Walk:** 90 minutes
+  - Flat, paved/gravel path with stunning views
 - **Bled Island view** from shore
 - **Bled cream cake (kremšnita):** At Park Hotel café
   - Original 1953 recipe
   - Essential experience!
+
+#### 🚴 Cycling Note
+- **Lake Bled perfect for bikes:** Flat, scenic, stop anywhere for photos
+- Biking saves 30-45 minutes vs. walking - more time for activities!
 
 #### Evening
 - Peaceful Slovenian atmosphere
@@ -142,7 +182,10 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
   
 - **Swimming:** Designated beaches
 - **Church of St. John:** Lakeside 13th-century church
-- **Walk lakeside path**
+- **Lakeside exploration:**
+  - **Walk or bike** the lakeside paths
+  - Multiple beaches and viewpoints
+  - 🚴 Bikes work well here on flat sections
 
 #### Savica Waterfall
 - **Near Lake Bohinj**
@@ -190,7 +233,10 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 #### Midday: Ljubljana
 - **Slovenia's charming capital**
 - **Park campervan** at campsite
-- **Drive or bus** into center (compact city)
+- **Transport to center:**
+  - **Option 1 - Bus:** Regular service from campsite
+  - **Option 2 - Bike:** 🚴 Bike-friendly city, ~5-8 km from most campsites (30-40 min ride)
+  - **Option 3 - Drive:** Compact city, parking available
 
 **Ljubljana Highlights:**
 - **Ljubljana Castle:**
@@ -205,6 +251,7 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
   - Prešeren Square
   - Riverside cafés
   - Very walkable
+  - 🚴 **Bikes allowed** in pedestrian zones (walk them in busiest areas)
 
 - **Central Market:**
   - Open-air market (mornings best)
@@ -218,6 +265,11 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
   - Pedestrian bridges
 
 **Duration:** Afternoon/evening (city requires 4-6 hours)
+
+#### 🚴 Cycling Note
+- Ljubljana is one of Europe's most bike-friendly capitals
+- Dedicated bike lanes throughout city center
+- Free bike parking at most tourist spots
 
 #### Campsite
 - **Ljubljana Resort:** Near city
@@ -275,7 +327,8 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 ---
 
 ## CAMPSITE HUB #3: Rovinj, Croatia (Istrian Peninsula)
-**Location:** Rovinj  
+**Map:** https://maps.app.goo.gl/Z11e8MMuRDhWh7Hx8
+**Location:** Rovinj
 **Nights:** 2 nights (June 5-6)  
 **Dates:** Thursday June 5 - Friday June 6  
 **Move:** 150 km from Ljubljana/Postojna
@@ -291,13 +344,20 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 #### Afternoon: Rovinj
 - **Most beautiful Istrian town**
 - Setup campsite
-- **Walk old town:**
+- **Transport to old town:**
+  - **Walk:** From most campsites (20-30 min)
+  - **Bike:** 🚴 5-10 minutes, easy ride, park near harbor
+- **Old town exploration:**
   - Venetian architecture
   - Colorful harbor
   - St. Euphemia Church (bell tower climb: €2)
-  - Narrow cobblestone streets
+  - Narrow cobblestone streets (walk bikes here)
   - Art galleries
   - Waterfront promenade
+
+#### 🚴 Cycling Note
+- Most Rovinj campsites 2-4 km from old town
+- Bikes save walking time and useful for beach hopping
 
 #### Evening
 - **Sunset from harbor:** Perfect photography
@@ -331,13 +391,22 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 - **Duration:** 3-4 hours
 - **Wildlife:** Fish visible underwater
 
-#### Afternoon: Rovinj Peninsula Walk
-- **Golden Cape (Zlatni Rt):**
+#### Afternoon: Rovinj Peninsula Walk or Bike
+- **Golden Cape (Zlatni Rt):** ⭐ BEST BIKE ROUTE
   - Forest park on peninsula
   - 7 km of coastal paths
-  - Swimming spots
-  - Cycling paths (rent bikes)
+  - Swimming spots along the way
+  - **🚴 Dedicated cycling paths** - flat, well-maintained
   - Rocky beaches
+  - Shaded forest (perfect for hot days)
+  - **Duration:** 1-2 hours by bike (leisurely with stops)
+  - **Bikes highly recommended** - cover more ground, access more coves
+
+#### 🚴 Cycling Highlight
+- **Zlatni Rt is THE place for bikes in Rovinj**
+- Explore hidden beaches and coves inaccessible by car
+- Stop anywhere for swimming, picnics, photos
+- One of Croatia's best cycling destinations
 
 #### Alternative Afternoon
 - **Beach time:** Multiple beaches around Rovinj
@@ -515,6 +584,7 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 
 ---
 ## CAMPSITE HUB #5: Split & Central Dalmatia
+**Map:** https://maps.app.goo.gl/LRFhaFQDBJhMn9H48
 **Location:** Split area or between Split/Omiš  
 **Nights:** 2 nights (June 10-11)  
 **Dates:** Tuesday June 10 - Wednesday June 11  
@@ -541,11 +611,20 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 
 **Other Split:**
 - **Riva:** Waterfront promenade (palm trees, cafés)
+  - 🚴 **Perfect for bikes** - long, flat, scenic promenade
+  - Ride from campsite along coast to old town
 - **Marjan Hill:** Forest park with viewpoints
+  - 🚴 Bike to base, walk up viewpoint trails
+  - Cycling paths in forest park
 - **Green Market:** Local produce
 - **People's Square (Narodni Trg)**
 
 **Duration:** 3-4 hours minimum
+
+#### 🚴 Cycling Note
+- Split's Riva waterfront is ideal for cycling
+- Bike from campsite to avoid parking hassles
+- Marjan Hill has dedicated bike paths through pine forest
 
 #### Campsite
 - **Split area** or continue to **Omiš** (20 km)
@@ -626,12 +705,29 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 #### Afternoon: Dubrovnik Arrival
 - Arrive early afternoon
 - Setup campsite
+- **Transport to old town:**
+  - **Option 1 - Bus:** Frequent service, €1.50 each way
+  - **Option 2 - Bike:** 🚴⭐ **HIGHLY RECOMMENDED**
+    - 4 km from Camping Solitudo to old town
+    - 15-20 minutes coastal ride
+    - Scenic route along Lapad peninsula
+    - **Saves €6/day in bus tickets** (both ways)
+    - Bike parking near Pile Gate (free/cheap)
+    - Flexibility for multiple trips
 - **First impressions walk (15:00-18:00)**
   - Enter through Pile Gate (main entrance)
   - Walk Stradun (main street, polished limestone)
   - Get oriented
   - Find restaurants for dinner
   - Sunset views from walls area (outside, free)
+
+#### 🚴 Cycling Highlight for Dubrovnik
+- **Bikes are GAME-CHANGERS in Dubrovnik**
+- Save €12+ over 2 days in bus tickets
+- Avoid bus schedules and waiting
+- Freedom to return to campsite anytime
+- Beautiful coastal ride (not just transport!)
+- Parking nightmare solved - bikes park easily
 
 #### Evening
 - Dinner in old town (atmospheric but pricey)
@@ -650,6 +746,7 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 #### Early Morning: City Walls Walk (8:00-10:00)
 **THE highlight of Dubrovnik - don't miss!**
 
+- **Transport:** 🚴 Bike to old town (7:30 AM departure from campsite)
 - **Arrive 8am** (opening time) - beat the crowds!
 - **Entry:** €35/person (expensive but absolutely worth it)
 - **Duration:** 1.5-2 hours for complete circuit
@@ -926,6 +1023,67 @@ You must choose activities wisely - Day 15 is arrival/orientation, Day 16 is int
 - Guided tours available or DIY with inflatable
 - Simply unforgettable experience
 
+### 🚴 Cycling Guide - Best Bike Routes
+
+**Where Bikes Are ESSENTIAL:**
+
+1. **Lake Bled Circuit (Slovenia)** ⭐⭐⭐
+   - Distance: 6 km loop
+   - Terrain: Flat, paved/gravel
+   - Time: 45-60 minutes (vs. 90 min walking)
+   - Why: Saves time, stop anywhere for photos
+   - Best time: Morning or late afternoon
+
+2. **Rovinj Golden Cape/Zlatni Rt (Croatia)** ⭐⭐⭐
+   - Distance: 7 km coastal forest paths
+   - Terrain: Flat, dedicated bike trails
+   - Time: 1-2 hours with swimming stops
+   - Why: Access hidden beaches, shaded forest, one of Croatia's best cycling spots
+   - Must-do activity!
+
+3. **Dubrovnik Campsite to Old Town (Croatia)** ⭐⭐⭐
+   - Distance: 4 km each way (8 km round trip)
+   - Terrain: Mostly flat, coastal road
+   - Time: 15-20 minutes each way
+   - Why: Saves €12+ in bus tickets over 2 days, parking solved, flexibility
+   - **Highly recommended** for convenience and cost
+
+**Where Bikes Are USEFUL:**
+
+4. **Ljubljana City Center (Slovenia)** ⭐⭐
+   - Distance: 5-8 km from campsites
+   - Very bike-friendly capital with dedicated lanes
+   - Alternative to bus/driving
+
+5. **Split Riva Waterfront (Croatia)** ⭐⭐
+   - Distance: 3-5 km depending on campsite
+   - Beautiful flat promenade, Marjan Hill forest paths
+   - Avoid parking hassles in city center
+
+6. **Lake Bohinj Lakeside (Slovenia)** ⭐
+   - Flat sections good for bikes
+   - Explore multiple beaches
+
+**Where NOT to Use Bikes:**
+- ❌ Day trips to Pula, Zadar, Krka, Plitvice (too far)
+- ❌ Old town cobblestones (walk bikes in narrow streets)
+- ❌ Mountain viewpoint hikes (leave bikes at base)
+
+**Bike Safety & Tips:**
+- **Locks:** Bring 2 good locks (old towns are tourist hotspots)
+- **Helmets:** Recommended, required for children under 16
+- **Lights:** Front white, rear red (required for night riding)
+- **Rules:** Ride on right, obey traffic signals, dismount in crowded pedestrian areas
+- **Parking:** Free/cheap bike parking near all major attractions
+- **Campsites:** All have bike storage areas
+- **Water bottles:** Bring holders - June can be hot
+
+**Cost Savings with Bikes:**
+- Dubrovnik: Save €12 in bus tickets (2 days)
+- Ljubljana: Save €8-10 in bus/parking
+- Split: Save parking fees €6-8
+- **Total savings: ~€25-30** vs. convenience cost
+
 ### Languages
 - **Slovenia:** Slovenian (English widely spoken, especially younger generation and tourist areas)
 - **Croatia:** Croatian (English common in tourist areas, less in rural regions)
@@ -1091,6 +1249,7 @@ If absolutely necessary:
 ✅ **UNESCO World Heritage Sites:** Plitvice, Dubrovnik, Split, more  
 ✅ **Most iconic locations** - Bled, Plitvice, Zlatni Rat, Dubrovnik walls  
 ✅ **Kayaking paradise** - Alpine mirror lakes AND warm Adriatic AND historic city walls  
+✅ **Cycling-enhanced experience** - Lake Bled loop, Rovinj forest trails, Dubrovnik coastal rides  
 ✅ **Hub-and-spoke perfection** - Campervan stays 2-3 nights, never rushed  
 ✅ **Photography diversity** - Mountains, waterfalls, coast, islands, medieval cities  
 ✅ **Swimming variety** - Lakes, national park waterfalls, beaches, islands, "Dead Sea"  
@@ -1099,6 +1258,7 @@ If absolutely necessary:
 ✅ **Island hopping** - Brač, Lokrum, options for more  
 ✅ **Natural wonders** - Some of Europe's most beautiful landscapes  
 ✅ **Cultural immersion** - Roman ruins, medieval towns, Venetian architecture  
+✅ **Flexible transport** - Bikes save money and parking hassles in cities  
 
 ---
 
