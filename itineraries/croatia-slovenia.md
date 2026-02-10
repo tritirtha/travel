@@ -69,7 +69,7 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 ---
 
 ## CAMPSITE HUB #1: Lake Bled & Bohinj, Slovenia
-**Map:** https://maps.app.goo.gl/zXmDZEKVrQkESVu89
+**Map:** https://maps.app.goo.gl/zXmDZEKVrQkESVu89  
 **Location:** Bled  
 **Nights:** 3 nights (May 31 - June 2)  
 **Dates:** Saturday May 31 - Monday June 2  
@@ -220,6 +220,7 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 
 ---
 ## CAMPSITE HUB #2: Ljubljana & Surroundings
+**Map:** https://maps.app.goo.gl/6QGTQAJtcmYm8AzY8  
 **Location:** Ljubljana or Postojna area  
 **Nights:** 2 nights (June 3-4)  
 **Dates:** Tuesday June 3 - Wednesday June 4  
@@ -327,7 +328,7 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 ---
 
 ## CAMPSITE HUB #3: Rovinj, Croatia (Istrian Peninsula)
-**Map:** https://maps.app.goo.gl/Z11e8MMuRDhWh7Hx8
+**Map:** https://maps.app.goo.gl/Z11e8MMuRDhWh7Hx8  
 **Location:** Rovinj
 **Nights:** 2 nights (June 5-6)  
 **Dates:** Thursday June 5 - Friday June 6  
@@ -584,7 +585,7 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 
 ---
 ## CAMPSITE HUB #5: Split & Central Dalmatia
-**Map:** https://maps.app.goo.gl/LRFhaFQDBJhMn9H48
+**Map:** https://maps.app.goo.gl/LRFhaFQDBJhMn9H48  
 **Location:** Split area or between Split/Omiš  
 **Nights:** 2 nights (June 10-11)  
 **Dates:** Tuesday June 10 - Wednesday June 11  
