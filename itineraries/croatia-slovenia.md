@@ -32,9 +32,9 @@
 | 1 | Lake Bled, Slovenia | May 31 | June 3 | 3 | Days 2-4 |
 | 2 | Ljubljana/Postojna, Slovenia | June 3 | June 5 | 2 | Days 5-6 |
 | 3 | Rovinj, Croatia (Istria) | June 5 | June 7 | 2 | Days 7-9 |
-| 4 | Šibenik/Zadar, Croatia | June 7 | June 10 | 3 | Days 10-12 |
-| 5 | Split, Croatia | June 10 | June 12 | 2 | Days 13-14 |
-| 6 | Dubrovnik, Croatia | June 12 | June 14 | 2 | Days 15-16 |
+| 4 | Šibenik/Zadar, Croatia | June 7 | June 10 | 2 | Days 10-11 |
+| 5 | Split, Croatia | June 10 | June 13 | 3 | Days 12-14 |
+| 6 | Dubrovnik, Croatia | June 13 | June 15 | 2 | Days 15-16 |
 | Return | Slovenia/Austria border | June 15 | June 16 | 1 | Day 17 |
 
 **Total Camping Nights:** 16  
@@ -331,7 +331,7 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 **Map:** https://maps.app.goo.gl/Z11e8MMuRDhWh7Hx8  
 **Location:** Rovinj
 **Nights:** 2 nights (June 5-6)  
-**Dates:** Thursday June 5 - Friday June 6  
+**Dates:** Thursday June 5 - Saturday June 6  
 **Move:** 150 km from Ljubljana/Postojna
 
 ### Day 7 - Thursday, June 5: Slovenia → Croatia + Rovinj Arrival
@@ -445,14 +445,19 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 
 ## CAMPSITE HUB #4: Zadar / Šibenik Region
 **Location:** Šibenik or between Zadar/Šibenik  
-**Nights:** 3 nights (June 7-9)  
+**Nights:** 2 nights (June 7-9)  
 **Dates:** Saturday June 7 - Monday June 9  
 **Move:** 300 km from Rovinj (includes Plitvice stop)
 
-### Day 10 - Sunday, June 8: Rovinj → Dalmatia via Plitvice Lakes
+### Day 10 - Saturday, June 7: Rovinj → Dalmatia via Plitvice Lakes
 **Campervan Drive:** 300 km (5-6 hours with park visit)
 
+#### Morning: Depart Rovinj
+- **8:00-9:00:** Early departure from Rovinj
+- Stock up on snacks/water for Plitvice
+
 #### Plitvice Lakes National Park (UNESCO)
+- **Arrive:** 10:30-11:00
 - **On route between regions**
 - **Must-visit Croatian highlight**
 - **Entry:** €20-40/person (varies by season)
@@ -462,7 +467,7 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 - **Boardwalks** over and beside water
 - **Electric boats** and shuttle trains (included)
 - **Routes:** 2-8 hours (various options)
-- **Recommend:** 4-6 hour medium route
+- **Recommend:** 4-5 hour medium route (time-conscious)
 
 **Photography:**
 - Cascading waterfalls
@@ -476,22 +481,30 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 - **No drones** (prohibited)
 - **Swimming prohibited**
 - **Stay on boardwalks**
-- **Arrive early** (gets very crowded)
+- **Arrive early** (gets very crowded - you'll be there 10:30-11:00, good timing!)
 
-#### Evening: Continue to Coast
-- Drive 150 km to Šibenik area
-- Arrive late afternoon
-- Setup campsite
+#### Afternoon/Evening: Continue to Šibenik
+- **16:00-16:30:** Depart Plitvice
+- Drive 150 km to Šibenik area (2 hours)
+- **18:30-19:00:** Arrive Šibenik, setup campsite
+- **Evening:** Quick grocery shopping, relaxed dinner
+- **Optional:** Brief evening walk in Šibenik old town (if not too tired)
+
+⚠️ **Note:** This is a LONG day - 300 km total + 5 hours at Plitvice. Arrive at campsite, rest well.
 
 #### Campsite
 - **Solaris Campsite (Šibenik):** Large, modern
 - **Between Šibenik and Primošten:** Several options
 - €30-40/night
 
-### Day 11 - Monday, June 9: Krka National Park (Day Trip by Car)
-**Car Round Trip:** ~40 km
+### Day 11 - Sunday, June 8: Krka National Park + Šibenik + Zadar Morning
+**Car Round Trip:** ~140 km total
 
-#### Krka National Park
+#### Early Morning: Krka National Park (8:00-12:00)
+**Car drive:** ~40 km round trip
+
+- **7:30:** Early breakfast
+- **8:00-8:30:** Drive to Krka (20 km)
 - **Entry:** €15-30/person (seasonal)
 - **Different from Plitvice** (river gorge vs. lakes)
 - **Main attraction:** Skradinski Buk waterfall
@@ -504,24 +517,26 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
   - Below waterfalls
   - Cool but refreshing
   - Bring swimsuit!
+  - **Great after hot Plitvice day yesterday!**
 
-#### Optional Extensions
+**Duration at Krka:** 3-4 hours (including swimming)
+
+#### Optional Krka Extensions (if time):
 - **Boat trip:** To Visovac Island
   - Franciscan monastery on island
   - Additional €12
   
 - **Roški Slap:** Upper section of park
-  - More waterfalls
-  - Less crowded
+  - More waterfalls, less crowded
   - Traditional watermills
 
-#### Kayaking Option
+#### Kayaking Option at Krka:
 - **Krka River sections** allow kayaking
-- Calm water
-- Scenic canyon
+- Calm water, scenic canyon
 - Rentals available
 
-#### Afternoon: Šibenik Old Town
+#### Midday: Šibenik Old Town (12:30-14:30)
+- Return to Šibenik for lunch
 - **UNESCO St. James Cathedral:**
   - Unique all-stone construction
   - No brick or wood
@@ -530,15 +545,15 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
   
 - **Medieval town:**
   - Narrow stepped streets
-  - Four fortresses (St. Michael's best views)
+  - Four fortresses (St. Michael's best views if time)
   - Less touristy than Split/Dubrovnik
   - Authentic atmosphere
 
-### Day 12 - Tuesday, June 10: Zadar & Islands (Day Trip)
-**Car Round Trip:** ~100 km + optional ferry**
+**Duration:** 2 hours
 
-#### Morning/Midday: Zadar
-- **50 km north of Šibenik**
+#### Afternoon: Zadar (15:00-18:30)
+**Car drive:** 50 km north (1 hour)
+
 - **Unique modern installations:**
   - **Sea Organ:** 
     - Steps that play music with waves
@@ -556,42 +571,26 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
   - Five Wells Square
   - City gates
 
-- **Duration:** 2-3 hours
+**Duration:** 3-4 hours
 
-#### Afternoon Options
+**Return to Šibenik:** 19:00-20:00
 
-**Option A: Kornati Islands Boat Tour**
-- **Book from Zadar**
-- **Kornati National Park:** 89 islands
-- **Full-day excursion:** €50-80/person
-- **Includes:** Swimming, snorkeling, lunch
-- **Boat leaves morning** (book previous day)
-- **Crystal-clear Adriatic**
+⚠️ **Note:** This is a PACKED day covering Krka + Šibenik + Zadar. Skip Kornati Islands boat tour and Zadar afternoon options to fit everything. This is the trade-off for 2 nights vs. 3 nights.
 
-**Option B: Nin**
-- **15 km from Zadar**
-- **Tiny historic town** on island
-- **Smallest cathedral in world**
-- **Sandy beaches** (rare in Croatia!)
-- **Salt pans** (traditional salt production)
-- **Shallow lagoons:** Perfect for kayaking
-
-**Option C: Pag Island**
-- **Drive across bridge** to island
-- **Famous for:** Pag cheese, lace, party beach Zrće
-- **Lunar landscape** (barren, moon-like)
-- **Salt production**
-- **Interesting contrast** to lush mainland
+#### Zadar Afternoon Options SKIPPED:
+- ❌ **Kornati Islands Boat Tour** (requires full day - not enough time)
+- ❌ **Nin** (adds 30 km)
+- ❌ **Pag Island** (too far with full schedule)
 
 ---
 ## CAMPSITE HUB #5: Split & Central Dalmatia
 **Map:** https://maps.app.goo.gl/LRFhaFQDBJhMn9H48  
-**Location:** Split area or between Split/Omiš  
-**Nights:** 2 nights (June 10-11)  
-**Dates:** Tuesday June 10 - Wednesday June 11  
-**Move:** 150 km from Šibenik
+**Location:** Split area (CAMPING STOBREČ SPLIT or similar)  
+**Nights:** 3 nights (June 9-12)  
+**Dates:** Monday June 9 - Thursday June 12  
+**Move:** 90 km from Šibenik
 
-### Day 13 - Wednesday, June 11: Šibenik → Split + Arrival
+### Day 12 - Monday, June 9: Šibenik → Split + Arrival
 **Campervan Drive:** 90 km to Split (1.5 hours)
 
 #### Afternoon: Split Exploration
@@ -628,11 +627,16 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 - Marjan Hill has dedicated bike paths through pine forest
 
 #### Campsite
-- **Split area** or continue to **Omiš** (20 km)
-- **Near beaches**
-- €30-40/night
+- **CAMPING STOBREČ SPLIT:** Best campsite in Split area
+  - Wellness center, swimming pool
+  - Beach access
+  - Excellent facilities
+  - **Minimum 3-night booking** (you're using all 3!)
+  - €40-45/night
+- **Alternative:** Other Split area campsites if Stobreč full
+- €30-40/night (standard campsites)
 
-### Day 14 - Thursday, June 12: Croatian Islands - Brač or Hvar (Full Day)
+### Day 13 - Tuesday, June 10: Brač Island (Full Day)
 **Ferry + car on island**
 
 #### Recommended: Brač Island
@@ -640,7 +644,7 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 - **Split → Supetar:** 50 minutes
 - **Cost:** €6-8/person + €15-20 car
 - **Frequent departures**
-- **Book evening before** or arrive early
+- **Book evening before** or arrive early (8:00-9:00 AM ferry recommended)
 
 #### Brač Exploration
 
@@ -665,7 +669,18 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 - **Around Zlatni Rat**
 - **Explore coves**
 - **Crystal-clear water**
-- **Rentals in Bol**
+- **Rentals in Bol** or bring your inflatable
+
+**Full Day Schedule:**
+- **8:30:** Ferry departure Split
+- **9:30-10:00:** Arrive Supetar, drive to Bol (20 km)
+- **10:30-13:00:** Zlatni Rat beach + kayaking
+- **13:00-14:00:** Lunch in Bol
+- **14:30-15:30:** Drive up to Vidova Gora (photography!)
+- **16:00-17:00:** More beach time or explore Bol town
+- **17:30:** Drive back to Supetar
+- **18:00-18:30:** Ferry return to Split
+- **19:00:** Arrive back at campsite
 
 #### Alternative: Hvar Island
 - **Ferry:** Split → Stari Grad (2 hours)
@@ -684,16 +699,89 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 - Island landscapes
 - Traditional stone villages
 
+### Day 14 - Wednesday, June 11: Trogir + Split Leisure Day
+**Relaxed day before Dubrovnik push**
+
+#### Morning: Trogir (UNESCO Town) (9:00-13:00)
+**Car Round Trip:** 60 km from Split
+
+- **30 km west of Split**
+- **Medieval island town** - entire old town on tiny island
+- **Less crowded** than Split or Dubrovnik
+- **Venetian architecture** beautifully preserved
+
+**Trogir Highlights:**
+- **Cathedral of St. Lawrence:**
+  - Romanesque-Gothic masterpiece
+  - Climb bell tower for views (€3)
+  - Radovan's Portal (13th century, intricate carvings)
+  
+- **Kamerlengo Fortress:**
+  - Venetian fortress on waterfront
+  - Walk the walls, panoramic views
+  - €3 entry
+
+- **Old Town Wander:**
+  - Narrow marble streets
+  - Small squares, palaces
+  - Waterfront promenade
+  - Local markets
+  - Charming cafés
+
+**Duration:** 3-4 hours  
+**Why worth it:** UNESCO site, authentic, fewer tourists, close to Split
+
+#### Afternoon: Split Relaxation (14:00-18:00)
+
+**Choose Your Adventure:**
+
+**Option A: Beach & Pool Day** ⭐ Recommended
+- Return to CAMPING STOBREČ SPLIT
+- **Use the amenities you're paying for!**
+- Swimming pool at campsite
+- Beach access (pebble beach)
+- **Wellness center** (sauna, massage if available)
+- Relax after 12 days of intense travel
+- Prepare for Dubrovnik intensity tomorrow
+
+**Option B: Marjan Hill Exploration** 🚴
+- **Marjan Forest Park** above Split
+- 🚴 **Perfect for bikes** - dedicated cycling paths
+- Pine forest, Mediterranean vegetation
+- Multiple viewpoints over Split and islands
+- **Distance:** 5-8 km of trails
+- Shaded (good for hot June afternoons)
+- Peaceful escape from city
+
+**Option C: More Split City Time**
+- Return to Diocletian's Palace
+- **Green Market** for local products
+- **Archaeological Museum** (if interested)
+- **Meštrović Gallery** (famous Croatian sculptor)
+- Shopping in old town
+- Cafés on Riva promenade
+
+#### Evening (18:00-21:00)
+- **Pack for Dubrovnik** (checking out tomorrow morning)
+- Leisurely dinner (try local konoba)
+- Early to bed - big drive tomorrow (230 km to Dubrovnik)
+- **Enjoy the campsite facilities one last time!**
+
+#### 🚴 Cycling Note for Day 14
+- Marjan Hill is THE bike destination in Split
+- Forest paths, viewpoints, beaches
+- 🚴 If you bike, allow 2-3 hours for good exploration
 
 ---
 
 ## CAMPSITE HUB #6: Dubrovnik - "Pearl of the Adriatic"
+**Map:** https://maps.app.goo.gl/2LvnKqEcLrzA19QN7
 **Location:** Dubrovnik area  
-**Nights:** 2 nights (June 12-13)  
-**Dates:** Thursday June 12 - Friday June 13  
+**Nights:** 2 nights (June 12-14)  
+**Dates:** Thursday June 12 - Saturday June 14  
 **Move:** 230 km from Split
 
-### Day 15 - Friday, June 13: Split → Dubrovnik + Arrival
+### Day 15 - Thursday, June 12: Split → Dubrovnik + Arrival
 **Campervan Drive:** 230 km (3-3.5 hours)
 
 #### Border Crossing Note
@@ -741,7 +829,7 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 - **Camping Adriatic:** Alternative, similar location
 - Most expensive camping of trip but worth it for Dubrovnik
 
-### Day 16 - Saturday, June 14: Dubrovnik - City Walls, Mt. Srđ & Lokrum (Intensive Day)
+### Day 16 - Friday, June 13: Dubrovnik - City Walls, Mt. Srđ & Lokrum (Intensive Day)
 **Main sightseeing day - maximizing the experience**
 
 #### Early Morning: City Walls Walk (8:00-10:00)
@@ -850,7 +938,7 @@ You must choose activities wisely - Day 15 is arrival/orientation, Day 16 is int
 ## Days 17-18: Return Journey to Netherlands
 **Two-day return (non-negotiable for safety and comfort)**
 
-### Day 17 - Sunday, June 15: Dubrovnik → Slovenia/Austria Border
+### Day 17 - Saturday, June 14: Dubrovnik → Slovenia/Austria Border
 **First leg of return journey**
 
 #### Morning Departure from Dubrovnik (09:00-10:00)
@@ -882,7 +970,7 @@ You must choose activities wisely - Day 15 is arrival/orientation, Day 16 is int
 - **Austrian border area:** Villach region campsites (€30-40)
 - **Book ahead** or arrive with flexibility
 
-### Day 18 - Monday, June 16: Slovenia/Austria → Netherlands
+### Day 18 - Sunday, June 15: Slovenia/Austria → Netherlands
 **Final leg - arrive home!**
 
 #### Morning Departure (08:00)
@@ -903,6 +991,8 @@ You must choose activities wisely - Day 15 is arrival/orientation, Day 16 is int
 
 **Arrive home:** 19:00-20:00
 
+**Return Date:** Sunday, June 15 around 7-8 PM
+
 #### Arrival
 - Unpack gradually (no rush!)
 - Celebrate an amazing 18-day journey!
@@ -920,22 +1010,22 @@ You must choose activities wisely - Day 15 is arrival/orientation, Day 16 is int
 
 ## Total Trip Summary
 
-**18 Days Total: May 30 - June 16, 2024**
+**17 Days Total: May 30 - June 15, 2024**
 
 - **Day 1 (Fri May 30):** Netherlands → Germany/Austria
 - **Days 2-4 (Sat May 31 - Mon June 2):** Lake Bled (3 nights)
 - **Days 5-6 (Tue June 3 - Wed June 4):** Ljubljana/Postojna (2 nights)
-- **Days 7-9 (Thu June 5 - Sat June 7):** Rovinj, Istria (2 nights + day trip)
-- **Days 10-12 (Sun June 8 - Tue June 10):** Šibenik/Zadar + Plitvice (3 nights)
-- **Days 13-14 (Wed June 11 - Thu June 12):** Split + Brač Island (2 nights)
-- **Days 15-16 (Fri June 13 - Sat June 14):** Dubrovnik (2 nights)
-- **Days 17-18 (Sun June 15 - Mon June 16):** Return journey (2 days)
+- **Days 7-9 (Thu June 5 - Sat June 6):** Rovinj, Istria (2 nights)
+- **Days 10-11 (Sat June 7 - Sun June 8):** Šibenik/Zadar + Plitvice (2 nights)
+- **Days 12-14 (Mon June 9 - Wed June 11):** Split + Brač + Trogir (3 nights)
+- **Days 15-16 (Thu June 12 - Fri June 13):** Dubrovnik (2 nights)
+- **Days 17-18 (Sat June 14 - Sun June 15):** Return journey (2 days)
 
 **Total camping nights:** 16
 **Total distance:** ~5,500 km
 **Hubs:** 6 different locations
 **Departure:** Friday May 30 at 2:00 PM
-**Return:** Monday June 16 around 7-8 PM
+**Return:** Sunday June 15 around 7-8 PM
 
 ---
 
@@ -945,13 +1035,13 @@ You must choose activities wisely - Day 15 is arrival/orientation, Day 16 is int
 |----------|------------|
 | Fuel (5,500 km @ €0.16-0.18/km) | €880-990 |
 | Tolls & vignettes | €120-160 |
-| Camping (16 nights) | €520-640 |
-| Food & groceries (18 days) | €800-1,000 |
+| Camping (16 nights) | €605-720 |
+| Food & groceries (17 days) | €750-950 |
 | National park entries | €120-180 |
 | Activities (ferries, cable cars) | €200-300 |
 | Attractions (walls, castles, museums) | €180-250 |
 | Dubrovnik premium (higher costs) | €80-120 |
-| **Total** | **€2,900-3,640** |
+| **Total** | **€2,935-3,670** |
 
 ### Additional Dubrovnik-Specific Costs
 - City walls: €70 (2 people)
@@ -1271,11 +1361,11 @@ If absolutely necessary:
 | Lake Bled | Camping Bled | 3 | €30-40 | €105-120 | Lakeside, Slovenia |
 | Ljubljana area | Ljubljana Resort | 2 | €30-40 | €70-80 | Near capital |
 | Rovinj | Polari / Rubin | 2 | €35-45 | €80-90 | Beach access, Istria |
-| Šibenik | Solaris | 3 | €30-40 | €105-120 | Modern, Dalmatia |
-| Split area | Various | 2 | €30-40 | €70-80 | Near beaches |
+| Šibenik | Solaris | 2 | €30-40 | €70-80 | Modern, Dalmatia |
+| **Split area** | **CAMPING STOBREČ SPLIT** | **3** | **€40-45** | **€120-135** | **Wellness, pool, beach** |
 | **Dubrovnik** | **Solitudo** | **2** | **€40-50** | **€90-100** | **Premium location** |
 | Return (Slovenia) | Various | 1 | €30-40 | €35 | 2-day return stopover |
-| **TOTAL** | | **16** | | **€590-690** | |
+| **TOTAL** | | **16** | | **€605-720** | |
 
 ---
 
