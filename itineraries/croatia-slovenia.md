@@ -444,6 +444,7 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 - Istrian hilltop villages
 
 ## CAMPSITE HUB #4: Zadar / Šibenik Region
+**Map:** https://maps.app.goo.gl/C81Mdon6tv9MVjKF8
 **Location:** Šibenik or between Zadar/Šibenik  
 **Nights:** 2 nights (June 7-8)  
 **Dates:** Sunday June 7 - Monday June 8  
