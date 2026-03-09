@@ -1,8 +1,8 @@
-# Croatia & Slovenia Discovery - 18 Days
-**May 30 - June 16, 2024**
+# Croatia & Slovenia Discovery - 17 Days
+**May 30 - June 15, 2026**
 
-**Departure:** Friday, May 30, 2024 at 2:00 PM from Netherlands  
-**Return:** Sunday, June 16, 2024 around 7-8 PM to Netherlands  
+**Departure:** Saturday, May 30, 2026 at 2:00 PM from Netherlands  
+**Return:** Monday, June 15, 2026 around 7-8 PM to Netherlands  
 **Total Campervan Distance:** ~5,500 km  
 **Driving Style:** Long initial/return drives, hub stays (2-3 nights)  
 **Campsites:** Strategic bases from Slovenian Alps to Dubrovnik
@@ -28,18 +28,18 @@
 
 | Hub # | Location | Check-in Date | Check-out Date | Nights | Days |
 |-------|----------|---------------|----------------|--------|------|
-| Transit | Munich/Salzburg area | May 30 | May 31 | 1 | Day 1 |
-| 1 | Lake Bled, Slovenia | May 31 | June 3 | 3 | Days 2-4 |
-| 2 | Ljubljana/Postojna, Slovenia | June 3 | June 5 | 2 | Days 5-6 |
-| 3 | Rovinj, Croatia (Istria) | June 5 | June 7 | 2 | Days 7-9 |
-| 4 | Šibenik/Zadar, Croatia | June 7 | June 10 | 2 | Days 10-11 |
-| 5 | Split, Croatia | June 10 | June 13 | 3 | Days 12-14 |
-| 6 | Dubrovnik, Croatia | June 13 | June 15 | 2 | Days 15-16 |
-| Return | Slovenia/Austria border | June 15 | June 16 | 1 | Day 17 |
+| Transit | Munich/Salzburg area | May 30 (Sat) | May 31 (Sun) | 1 | Day 1 |
+| 1 | Lake Bled, Slovenia | May 31 (Sun) | June 3 (Wed) | 3 | Days 2-4 |
+| 2 | Ljubljana/Postojna, Slovenia | June 3 (Wed) | June 5 (Fri) | 2 | Days 5-6 |
+| 3 | Rovinj, Croatia (Istria) | June 5 (Fri) | June 7 (Sun) | 2 | Days 7-8 |
+| 4 | Šibenik/Zadar, Croatia | June 7 (Sun) | June 9 (Tue) | 2 | Days 9-10 |
+| 5 | Split, Croatia | June 9 (Tue) | June 12 (Fri) | 3 | Days 11-13 |
+| 6 | Dubrovnik, Croatia | June 12 (Fri) | June 14 (Sun) | 2 | Days 14-15 |
+| Return | Slovenia/Austria border | June 14 (Sun) | June 15 (Mon) | 1 | Day 16 |
 
 **Total Camping Nights:** 16  
-**Departure:** Friday, May 30 at 2:00 PM  
-**Return:** Monday, June 16 around 7-8 PM
+**Departure:** Saturday, May 30 at 2:00 PM  
+**Return:** Monday, June 15 around 7-8 PM
 
 ---
 
@@ -47,11 +47,11 @@
 
 Experience the complete journey from Slovenia's alpine beauty to Croatia's entire Adriatic coastline, culminating in the iconic walled city of Dubrovnik. From emerald lakes and mountain peaks to turquoise seas, ancient coastal towns, and the "Pearl of the Adriatic," this journey combines natural wonders with rich cultural heritage. Perfect for kayaking both mountain lakes and the Adriatic Sea, including paddling around Dubrovnik's medieval walls.
 
-**This 18-day itinerary includes Dubrovnik (2 nights), completing your full Croatian coast experience with a comfortable 2-day return journey!**
+**This 17-day itinerary includes Dubrovnik (2 nights), completing your full Croatian coast experience with a comfortable 2-day return journey!**
 
 ---
 
-## Day 1 - Friday, May 30: Netherlands → Southern Germany/Austria
+## Day 1 - Saturday, May 30: Netherlands → Southern Germany/Austria
 **Drive:** 700 km (7-8 hours from 2 PM start)  
 **Overnight:** Munich or Salzburg area
 
@@ -72,10 +72,10 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 **Map:** https://maps.app.goo.gl/zXmDZEKVrQkESVu89  
 **Location:** Bled  
 **Nights:** 3 nights (May 31 - June 2)  
-**Dates:** Saturday May 31 - Monday June 2  
+**Dates:** Sunday May 31 - Tuesday June 2  
 **Move:** 400 km from Munich
 
-### Day 2 - Saturday, May 31: Germany → Slovenia + Lake Bled
+### Day 2 - Sunday, May 31: Germany → Slovenia + Lake Bled
 **Campervan Drive:** 400 km (4.5-5 hours)
 
 #### Border Crossing
@@ -108,7 +108,7 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 - **Šobec Camping:** Alternative nearby
 - €30-40/night
 
-### Day 3 - Sunday, June 1: Lake Bled - Full Day Exploration
+### Day 3 - Monday, June 1: Lake Bled - Full Day Exploration
 **Minimal car driving, local activities**
 
 #### Morning: Kayaking Lake Bled
@@ -165,7 +165,7 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 - Mountain reflections at sunrise
 - Vintgar Gorge turquoise waters
 
-### Day 4 - Monday, June 2: Lake Bohinj & Triglav National Park (Day Trip)
+### Day 4 - Tuesday, June 2: Lake Bohinj & Triglav National Park (Day Trip)
 **Car Round Trip:** ~60 km
 
 #### Morning: Lake Bohinj
@@ -223,10 +223,10 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 **Map:** https://maps.app.goo.gl/6QGTQAJtcmYm8AzY8  
 **Location:** Ljubljana or Postojna area  
 **Nights:** 2 nights (June 3-4)  
-**Dates:** Tuesday June 3 - Wednesday June 4  
+**Dates:** Wednesday June 3 - Thursday June 4  
 **Move:** 60 km from Bled
 
-### Day 5 - Tuesday, June 3: Bled → Ljubljana Area + City Exploration
+### Day 5 - Wednesday, June 3: Bled → Ljubljana Area + City Exploration
 **Campervan Drive:** 60 km (1 hour)
 
 #### Morning: Leisurely departure from Bled
@@ -277,7 +277,7 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 - **Alternatively:** Camp near Postojna (50 km south)
 - €30-40/night
 
-### Day 6 - Wednesday, June 4: Postojna Cave & Predjama Castle (Day Trip)
+### Day 6 - Thursday, June 4: Postojna Cave & Predjama Castle (Day Trip)
 **Car Round Trip:** ~50 km from Ljubljana
 
 #### Morning: Postojna Cave
@@ -331,10 +331,10 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 **Map:** https://maps.app.goo.gl/Z11e8MMuRDhWh7Hx8  
 **Location:** Rovinj
 **Nights:** 2 nights (June 5-6)  
-**Dates:** Thursday June 5 - Saturday June 6  
+**Dates:** Friday June 5 - Saturday June 6  
 **Move:** 150 km from Ljubljana/Postojna
 
-### Day 7 - Thursday, June 5: Slovenia → Croatia + Rovinj Arrival
+### Day 7 - Friday, June 5: Slovenia → Croatia + Rovinj Arrival
 **Campervan Drive:** 150 km (2-2.5 hours)
 
 #### Border Crossing
@@ -371,7 +371,7 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 - **Mon Perin:** Upscale option
 - €35-45/night
 
-### Day 8 - Friday, June 6: Rovinj Coastal Kayaking & Exploration
+### Day 8 - Saturday, June 6: Rovinj Coastal Kayaking & Exploration
 **Minimal car driving, water activities**
 
 #### Morning: Sea Kayaking Rovinj
@@ -415,7 +415,7 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 - **More kayaking:** Explore further
 - **Town exploration:** Galleries, shops
 
-### Day 9 - Saturday, June 7: Istrian Coast - Pula (Day Trip)
+### Day 9 - Sunday, June 7: Istrian Coast - Pula (Day Trip)
 **Car Round Trip:** ~80 km
 
 #### Morning: Pula
@@ -445,11 +445,11 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 
 ## CAMPSITE HUB #4: Zadar / Šibenik Region
 **Location:** Šibenik or between Zadar/Šibenik  
-**Nights:** 2 nights (June 7-9)  
-**Dates:** Saturday June 7 - Monday June 9  
+**Nights:** 2 nights (June 7-8)  
+**Dates:** Sunday June 7 - Monday June 8  
 **Move:** 300 km from Rovinj (includes Plitvice stop)
 
-### Day 10 - Saturday, June 7: Rovinj → Dalmatia via Plitvice Lakes
+### Day 10 - Sunday, June 7: Rovinj → Dalmatia via Plitvice Lakes
 **Campervan Drive:** 300 km (5-6 hours with park visit)
 
 #### Morning: Depart Rovinj
@@ -497,7 +497,7 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 - **Between Šibenik and Primošten:** Several options
 - €30-40/night
 
-### Day 11 - Sunday, June 8: Krka National Park + Šibenik + Zadar Morning
+### Day 11 - Monday, June 8: Krka National Park + Šibenik + Zadar Morning
 **Car Round Trip:** ~140 km total
 
 #### Early Morning: Krka National Park (8:00-12:00)
@@ -586,11 +586,11 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 ## CAMPSITE HUB #5: Split & Central Dalmatia
 **Map:** https://maps.app.goo.gl/LRFhaFQDBJhMn9H48  
 **Location:** Split area (CAMPING STOBREČ SPLIT or similar)  
-**Nights:** 3 nights (June 9-12)  
-**Dates:** Monday June 9 - Thursday June 12  
+**Nights:** 3 nights (June 9-11)  
+**Dates:** Tuesday June 9 - Thursday June 11  
 **Move:** 90 km from Šibenik
 
-### Day 12 - Monday, June 9: Šibenik → Split + Arrival
+### Day 12 - Tuesday, June 9: Šibenik → Split + Arrival
 **Campervan Drive:** 90 km to Split (1.5 hours)
 
 #### Afternoon: Split Exploration
@@ -636,7 +636,7 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 - **Alternative:** Other Split area campsites if Stobreč full
 - €30-40/night (standard campsites)
 
-### Day 13 - Tuesday, June 10: Brač Island (Full Day)
+### Day 13 - Wednesday, June 10: Brač Island (Full Day)
 **Ferry + car on island**
 
 #### Recommended: Brač Island
@@ -699,7 +699,7 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 - Island landscapes
 - Traditional stone villages
 
-### Day 14 - Wednesday, June 11: Trogir + Split Leisure Day
+### Day 14 - Thursday, June 11: Trogir + Split Leisure Day
 **Relaxed day before Dubrovnik push**
 
 #### Morning: Trogir (UNESCO Town) (9:00-13:00)
@@ -775,13 +775,13 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 ---
 
 ## CAMPSITE HUB #6: Dubrovnik - "Pearl of the Adriatic"
-**Map:** https://maps.app.goo.gl/2LvnKqEcLrzA19QN7
+**Map:** https://maps.app.goo.gl/2LvnKqEcLrzA19QN7  
 **Location:** Dubrovnik area  
-**Nights:** 2 nights (June 12-14)  
-**Dates:** Thursday June 12 - Saturday June 14  
+**Nights:** 2 nights (June 12-13)  
+**Dates:** Friday June 12 - Saturday June 13  
 **Move:** 230 km from Split
 
-### Day 15 - Thursday, June 12: Split → Dubrovnik + Arrival
+### Day 15 - Friday, June 12: Split → Dubrovnik + Arrival
 **Campervan Drive:** 230 km (3-3.5 hours)
 
 #### Border Crossing Note
@@ -829,7 +829,7 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 - **Camping Adriatic:** Alternative, similar location
 - Most expensive camping of trip but worth it for Dubrovnik
 
-### Day 16 - Friday, June 13: Dubrovnik - City Walls, Mt. Srđ & Lokrum (Intensive Day)
+### Day 16 - Saturday, June 13: Dubrovnik - City Walls, Mt. Srđ & Lokrum (Intensive Day)
 **Main sightseeing day - maximizing the experience**
 
 #### Early Morning: City Walls Walk (8:00-10:00)
@@ -935,10 +935,10 @@ You must choose activities wisely - Day 15 is arrival/orientation, Day 16 is int
 
 ---
 
-## Days 17-18: Return Journey to Netherlands
+## Days 17: Return Journey to Netherlands
 **Two-day return (non-negotiable for safety and comfort)**
 
-### Day 17 - Saturday, June 14: Dubrovnik → Slovenia/Austria Border
+### Day 17 - Sunday, June 14: Dubrovnik → Slovenia/Austria Border
 **First leg of return journey**
 
 #### Morning Departure from Dubrovnik (09:00-10:00)
@@ -970,7 +970,7 @@ You must choose activities wisely - Day 15 is arrival/orientation, Day 16 is int
 - **Austrian border area:** Villach region campsites (€30-40)
 - **Book ahead** or arrive with flexibility
 
-### Day 18 - Sunday, June 15: Slovenia/Austria → Netherlands
+### Day 18 - Monday, June 15: Slovenia/Austria → Netherlands
 **Final leg - arrive home!**
 
 #### Morning Departure (08:00)
@@ -991,7 +991,7 @@ You must choose activities wisely - Day 15 is arrival/orientation, Day 16 is int
 
 **Arrive home:** 19:00-20:00
 
-**Return Date:** Sunday, June 15 around 7-8 PM
+**Return Date:** Monday, June 15 around 7-8 PM
 
 #### Arrival
 - Unpack gradually (no rush!)
@@ -1010,26 +1010,26 @@ You must choose activities wisely - Day 15 is arrival/orientation, Day 16 is int
 
 ## Total Trip Summary
 
-**17 Days Total: May 30 - June 15, 2024**
+**17 Days Total: May 30 - June 15, 2026**
 
-- **Day 1 (Fri May 30):** Netherlands → Germany/Austria
-- **Days 2-4 (Sat May 31 - Mon June 2):** Lake Bled (3 nights)
-- **Days 5-6 (Tue June 3 - Wed June 4):** Ljubljana/Postojna (2 nights)
-- **Days 7-9 (Thu June 5 - Sat June 6):** Rovinj, Istria (2 nights)
-- **Days 10-11 (Sat June 7 - Sun June 8):** Šibenik/Zadar + Plitvice (2 nights)
-- **Days 12-14 (Mon June 9 - Wed June 11):** Split + Brač + Trogir (3 nights)
-- **Days 15-16 (Thu June 12 - Fri June 13):** Dubrovnik (2 nights)
-- **Days 17-18 (Sat June 14 - Sun June 15):** Return journey (2 days)
+- **Day 1 (Sat May 30):** Netherlands → Germany/Austria
+- **Days 2-4 (Sun May 31 - Tue June 2):** Lake Bled (3 nights)
+- **Days 5-6 (Wed June 3 - Thu June 4):** Ljubljana/Postojna (2 nights)
+- **Days 7-8 (Fri June 5 - Sat June 6):** Rovinj, Istria (2 nights)
+- **Days 9-10 (Sun June 7 - Mon June 8):** Šibenik/Zadar + Plitvice (2 nights)
+- **Days 11-13 (Tue June 9 - Thu June 11):** Split + Brač + Trogir (3 nights)
+- **Days 14-15 (Fri June 12 - Sat June 13):** Dubrovnik (2 nights)
+- **Days 16-17 (Sun June 14 - Mon June 15):** Return journey (2 days)
 
 **Total camping nights:** 16
 **Total distance:** ~5,500 km
 **Hubs:** 6 different locations
-**Departure:** Friday May 30 at 2:00 PM
-**Return:** Sunday June 15 around 7-8 PM
+**Departure:** Saturday May 30 at 2:00 PM
+**Return:** Monday June 15 around 7-8 PM
 
 ---
 
-## Budget Estimate (18 Days)
+## Budget Estimate (17 Days)
 
 | Category | Cost (EUR) |
 |----------|------------|
@@ -1331,7 +1331,7 @@ If absolutely necessary:
 
 ---
 
-## What Makes This 18-Day Itinerary Special
+## What Makes This 17-Day Itinerary Special
 
 ✅ **Complete Croatian coast** - Istria all the way to Dubrovnik, the full epic journey  
 ✅ **Dubrovnik included!** - "Pearl of Adriatic," once-in-lifetime experience  
@@ -1420,7 +1420,7 @@ If absolutely necessary:
 
 ## Final Thoughts
 
-This 18-day itinerary represents the **ultimate Slovenia-Croatia experience**, from alpine beauty through the entire Croatian coastline to the iconic "Pearl of the Adriatic." The inclusion of Dubrovnik (2 nights) completes this epic journey while maintaining a comfortable 2-day return.
+This 17-day itinerary represents the **ultimate Slovenia-Croatia experience**, from alpine beauty through the entire Croatian coastline to the iconic "Pearl of the Adriatic." The inclusion of Dubrovnik (2 nights) completes this epic journey while maintaining a comfortable 2-day return.
 
 **What makes Dubrovnik worth the extra days and cost:**
 
@@ -1438,7 +1438,7 @@ This 18-day itinerary represents the **ultimate Slovenia-Croatia experience**, f
 
 7. **Cultural immersion** - Walking through living history, Game of Thrones locations, Croatian pride
 
-Yes, Dubrovnik is more expensive and touristy than other stops, but going in late September (Sept 20-30) dramatically mitigates the crowd issues while maintaining perfect swimming weather. The experience is genuinely special - this is a city that has captivated visitors for centuries.
+Yes, Dubrovnik is more expensive and touristy than other stops, but going in early June (May 30 - June 15) means spring landscapes and fewer crowds than peak summer. The experience is genuinely special - this is a city that has captivated visitors for centuries.
 
 The hub-and-spoke model ensures you're never rushed, with 2-3 nights at each location allowing proper exploration without daily packing stress. Your inflatable kayak will experience incredible variety: alpine mirror lakes reflecting mountains, dramatic Adriatic coastline with caves and coves, and the unique experience of paddling around a UNESCO World Heritage medieval city.
 
@@ -1450,6 +1450,6 @@ The hub-and-spoke model ensures you're never rushed, with 2-3 nights at each loc
 
 ---
 
-*Last updated: February 4, 2026*  
-*Itinerary optimized for 18 days including Dubrovnik extension*  
-*Best timing: Late September (20-30) for optimal weather, crowds, and prices*
+*Last updated: March 9, 2026*  
+*Itinerary optimized for 17 days including Dubrovnik extension*  
+*Trip dates: May 30 - June 15, 2026 (early summer season)*
