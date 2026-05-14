@@ -371,8 +371,8 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 - **Mon Perin:** Upscale option
 - €35-45/night
 
-### Day 8 - Saturday, June 6: Rovinj Coastal Kayaking & Exploration
-**Minimal car driving, water activities**
+### Day 8 - Saturday, June 6: Rovinj Coastal Kayaking, Exploration & Pula Option
+**Manage the Istria day from the Rovinj campsite hub**
 
 #### Morning: Sea Kayaking Rovinj
 - **Launch:** Rovinj beaches or harbor
@@ -392,7 +392,9 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 - **Duration:** 3-4 hours
 - **Wildlife:** Fish visible underwater
 
-#### Afternoon: Rovinj Peninsula Walk or Bike
+#### Afternoon: Choose Rovinj Coast or Pula Day Trip
+
+**Option A: Rovinj Peninsula Walk or Bike**
 - **Golden Cape (Zlatni Rt):** ⭐ BEST BIKE ROUTE
   - Forest park on peninsula
   - 7 km of coastal paths
@@ -402,6 +404,24 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
   - Shaded forest (perfect for hot days)
   - **Duration:** 1-2 hours by bike (leisurely with stops)
   - **Bikes highly recommended** - cover more ground, access more coves
+
+**Option B: Pula Roman Heritage Day Trip**
+- **Car Round Trip:** ~80 km
+- **40 km south of Rovinj**
+- **Roman Arena:**
+  - 6th largest Roman amphitheater in world
+  - Incredibly well-preserved
+  - Built 27 BC - 68 AD
+  - Seats 20,000
+  - Underground passages
+  - Still hosts concerts, film festival
+  - **Entry:** €10
+  - **Duration:** 1-1.5 hours
+- **Temple of Augustus**
+- **Triumphal Arch of Sergii**
+- **Roman theater remains**
+- **Harbor area**
+- **Trade-off:** Choose this instead of the relaxed Rovinj beach/cycling afternoon to keep the June 7 transfer day intact.
 
 #### 🚴 Cycling Highlight
 - **Zlatni Rt is THE place for bikes in Rovinj**
@@ -414,28 +434,6 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 - **Windsurfing lessons:** Available
 - **More kayaking:** Explore further
 - **Town exploration:** Galleries, shops
-
-### Day 9 - Sunday, June 7: Istrian Coast - Pula (Day Trip)
-**Car Round Trip:** ~80 km
-
-#### Morning: Pula
-- **40 km south of Rovinj**
-- **Roman Arena:**
-  - 6th largest Roman amphitheater in world
-  - Incredibly well-preserved
-  - Built 27 BC - 68 AD
-  - Seats 20,000
-  - Underground passages
-  - Still hosts concerts, film festival
-  - **Entry:** €10
-  - **Duration:** 1-1.5 hours
-
-- **Temple of Augustus**
-- **Triumphal Arch of Sergii**
-- **Roman theater remains**
-- **Harbor area**
-
-#### Midday: Drive back to campsite or continue exploration
 
 #### Photography/Drone
 - Rovinj old town from water
@@ -450,7 +448,7 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 **Dates:** Sunday June 7 - Monday June 8  
 **Move:** 300 km from Rovinj (includes Plitvice stop)
 
-### Day 10 - Sunday, June 7: Rovinj → Dalmatia via Plitvice Lakes
+### Day 9 - Sunday, June 7: Rovinj → Dalmatia via Plitvice Lakes
 **Campervan Drive:** 300 km (5-6 hours with park visit)
 
 #### Morning: Depart Rovinj
@@ -498,7 +496,7 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 - **Between Šibenik and Primošten:** Several options
 - €30-40/night
 
-### Day 11 - Monday, June 8: Krka National Park + Šibenik + Zadar Morning
+### Day 10 - Monday, June 8: Krka National Park + Šibenik + Zadar Morning
 **Car Round Trip:** ~140 km total
 
 #### Early Morning: Krka National Park (8:00-12:00)
@@ -591,7 +589,7 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 **Dates:** Tuesday June 9 - Thursday June 11  
 **Move:** 90 km from Šibenik
 
-### Day 12 - Tuesday, June 9: Šibenik → Split + Arrival
+### Day 11 - Tuesday, June 9: Šibenik → Split + Arrival
 **Campervan Drive:** 90 km to Split (1.5 hours)
 
 #### Afternoon: Split Exploration
@@ -637,7 +635,7 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 - **Alternative:** Other Split area campsites if Stobreč full
 - €30-40/night (standard campsites)
 
-### Day 13 - Wednesday, June 10: Brač Island (Full Day)
+### Day 12 - Wednesday, June 10: Brač Island (Full Day)
 **Ferry + car on island**
 
 #### Recommended: Brač Island
@@ -700,7 +698,7 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 - Island landscapes
 - Traditional stone villages
 
-### Day 14 - Thursday, June 11: Trogir + Split Leisure Day
+### Day 13 - Thursday, June 11: Trogir + Split Leisure Day
 **Relaxed day before Dubrovnik push**
 
 #### Morning: Trogir (UNESCO Town) (9:00-13:00)
@@ -768,7 +766,7 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 - Early to bed - big drive tomorrow (230 km to Dubrovnik)
 - **Enjoy the campsite facilities one last time!**
 
-#### 🚴 Cycling Note for Day 14
+#### 🚴 Cycling Note for Day 13
 - Marjan Hill is THE bike destination in Split
 - Forest paths, viewpoints, beaches
 - 🚴 If you bike, allow 2-3 hours for good exploration
@@ -782,7 +780,7 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 **Dates:** Friday June 12 - Saturday June 13  
 **Move:** 230 km from Split
 
-### Day 15 - Friday, June 12: Split → Dubrovnik + Arrival
+### Day 14 - Friday, June 12: Split → Dubrovnik + Arrival
 **Campervan Drive:** 230 km (3-3.5 hours)
 
 #### Border Crossing Note
@@ -830,7 +828,7 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 - **Camping Adriatic:** Alternative, similar location
 - Most expensive camping of trip but worth it for Dubrovnik
 
-### Day 16 - Saturday, June 13: Dubrovnik - City Walls, Mt. Srđ & Lokrum (Intensive Day)
+### Day 15 - Saturday, June 13: Dubrovnik - City Walls, Mt. Srđ & Lokrum (Intensive Day)
 **Main sightseeing day - maximizing the experience**
 
 #### Early Morning: City Walls Walk (8:00-10:00)
@@ -932,14 +930,14 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 - **Early to bed** - pack tonight for 9am departure tomorrow
 
 **Important Note for 2-Night Dubrovnik:**
-You must choose activities wisely - Day 15 is arrival/orientation, Day 16 is intensive sightseeing, Day 17 morning is departure. The city walls and Mt. Srđ cable car are NON-NEGOTIABLE must-dos. The afternoon choice (Lokrum vs kayaking vs beach) depends on your energy level and priorities.
+You must choose activities wisely - Day 14 is arrival/orientation, Day 15 is intensive sightseeing, Day 16 morning is departure. The city walls and Mt. Srđ cable car are NON-NEGOTIABLE must-dos. The afternoon choice (Lokrum vs kayaking vs beach) depends on your energy level and priorities.
 
 ---
 
-## Days 17: Return Journey to Netherlands
+## Days 16-17: Return Journey to Netherlands
 **Two-day return (non-negotiable for safety and comfort)**
 
-### Day 17 - Sunday, June 14: Dubrovnik → Slovenia/Austria Border
+### Day 16 - Sunday, June 14: Dubrovnik → Slovenia/Austria Border
 **First leg of return journey**
 
 #### Morning Departure from Dubrovnik (09:00-10:00)
@@ -971,7 +969,7 @@ You must choose activities wisely - Day 15 is arrival/orientation, Day 16 is int
 - **Austrian border area:** Villach region campsites (€30-40)
 - **Book ahead** or arrive with flexibility
 
-### Day 18 - Monday, June 15: Slovenia/Austria → Netherlands
+### Day 17 - Monday, June 15: Slovenia/Austria → Netherlands
 **Final leg - arrive home!**
 
 #### Morning Departure (08:00)
@@ -996,7 +994,7 @@ You must choose activities wisely - Day 15 is arrival/orientation, Day 16 is int
 
 #### Arrival
 - Unpack gradually (no rush!)
-- Celebrate an amazing 18-day journey!
+- Celebrate an amazing 17-day journey!
 - Start planning next adventure!
 
 **Why Two-Day Return is Non-Negotiable:**
@@ -1288,8 +1286,8 @@ You must choose activities wisely - Day 15 is arrival/orientation, Day 16 is int
   - Swimming, lunch, quieter atmosphere than Dubrovnik
   - €50-80/person
 
-### If You Only Have 16-17 Days
-**Not recommended - 18 days is already optimized minimum for this route including Dubrovnik**
+### If You Only Have 16 Days
+**Not recommended - 17 days is already optimized minimum for this route including Dubrovnik**
 
 If absolutely necessary:
 - **Reduce Lake Bled:** 3 nights → 2 nights
