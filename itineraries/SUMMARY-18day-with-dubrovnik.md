@@ -211,7 +211,7 @@
 
 **National Parks (Days 10-11):**
 - Plitvice Lakes ✅
-- Krka waterfalls + swimming ✅
+- Krka waterfalls ✅
 
 **Dalmatia Cities (Days 11-14):**
 - Šibenik old town ✅

@@ -1,4 +1,5 @@
 # Croatia & Slovenia Discovery - 17 Days
+
 **May 30 - June 15, 2026**
 
 **Departure:** Saturday, May 30, 2026 at 2:00 PM from Netherlands  
@@ -14,7 +15,9 @@
 ---
 
 ## Quick Navigation
+
 **Jump to Campsite Hubs:**
+
 - [Hub #1: Lake Bled & Bohinj, Slovenia](#campsite-hub-1-lake-bled--bohinj-slovenia)
 - [Hub #2: Ljubljana & Surroundings](#campsite-hub-2-ljubljana--surroundings)
 - [Hub #3: Rovinj, Croatia (Istrian Peninsula)](#campsite-hub-3-rovinj-croatia-istrian-peninsula)
@@ -26,16 +29,16 @@
 
 ## Campsite Schedule at a Glance
 
-| Hub # | Location | Check-in Date | Check-out Date | Nights | Days |
-|-------|----------|---------------|----------------|--------|------|
-| Transit | Munich/Salzburg area | May 30 (Sat) | May 31 (Sun) | 1 | Day 1 |
-| 1 | Lake Bled, Slovenia | May 31 (Sun) | June 3 (Wed) | 3 | Days 2-4 |
-| 2 | Ljubljana/Postojna, Slovenia | June 3 (Wed) | June 5 (Fri) | 2 | Days 5-6 |
-| 3 | Rovinj, Croatia (Istria) | June 5 (Fri) | June 7 (Sun) | 2 | Days 7-8 |
-| 4 | Šibenik/Zadar, Croatia | June 7 (Sun) | June 9 (Tue) | 2 | Days 9-10 |
-| 5 | Split, Croatia | June 9 (Tue) | June 12 (Fri) | 3 | Days 11-13 |
-| 6 | Dubrovnik, Croatia | June 12 (Fri) | June 14 (Sun) | 2 | Days 14-15 |
-| Return | Slovenia/Austria border | June 14 (Sun) | June 15 (Mon) | 1 | Day 16 |
+| Hub #   | Location                     | Check-in Date | Check-out Date | Nights | Days       |
+| ------- | ---------------------------- | ------------- | -------------- | ------ | ---------- |
+| Transit | Munich/Salzburg area         | May 30 (Sat)  | May 31 (Sun)   | 1      | Day 1      |
+| 1       | Lake Bled, Slovenia          | May 31 (Sun)  | June 3 (Wed)   | 3      | Days 2-4   |
+| 2       | Ljubljana/Postojna, Slovenia | June 3 (Wed)  | June 5 (Fri)   | 2      | Days 5-6   |
+| 3       | Rovinj, Croatia (Istria)     | June 5 (Fri)  | June 7 (Sun)   | 2      | Days 7-8   |
+| 4       | Šibenik/Zadar, Croatia       | June 7 (Sun)  | June 9 (Tue)   | 2      | Days 9-10  |
+| 5       | Split, Croatia               | June 9 (Tue)  | June 12 (Fri)  | 3      | Days 11-13 |
+| 6       | Dubrovnik, Croatia           | June 12 (Fri) | June 14 (Sun)  | 2      | Days 14-15 |
+| Return  | Slovenia/Austria border      | June 14 (Sun) | June 15 (Mon)  | 1      | Day 16     |
 
 **Total Camping Nights:** 16  
 **Departure:** Saturday, May 30 at 2:00 PM  
@@ -52,10 +55,12 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 ---
 
 ## Day 1 - Saturday, May 30: Netherlands → Southern Germany/Austria
+
 **Drive:** 700 km (7-8 hours from 2 PM start)  
 **Overnight:** Munich or Salzburg area
 
 ### Activities
+
 - **2:00 PM:** Depart Netherlands
 - Drive 700 km (arrive around 9-10 PM)
 - Stock up on groceries at German supermarket (cheaper than Croatia)
@@ -63,12 +68,14 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 - Rest for journey ahead
 
 ### Campsite
+
 - Munich/Salzburg area
 - €30-40/night
 
 ---
 
 ## CAMPSITE HUB #1: Lake Bled & Bohinj, Slovenia
+
 **Map:** https://maps.app.goo.gl/zXmDZEKVrQkESVu89  
 **Location:** Bled  
 **Nights:** 3 nights (May 31 - June 2)  
@@ -76,14 +83,17 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 **Move:** 400 km from Munich
 
 ### Day 2 - Sunday, May 31: Germany → Slovenia + Lake Bled
+
 **Campervan Drive:** 400 km (4.5-5 hours)
 
 #### Border Crossing
+
 - Through Austria (vignette: €9.90)
 - Enter Slovenia (vignette: €15 weekly)
 - **Both countries:** Easy EU crossing
 
 #### Afternoon: Lake Bled Arrival
+
 - Arrive early afternoon
 - Setup campsite
 - **Lake circuit:** 6 km loop
@@ -96,22 +106,27 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
   - Essential experience!
 
 #### 🚴 Cycling Note
+
 - **Lake Bled perfect for bikes:** Flat, scenic, stop anywhere for photos
 - Biking saves 30-45 minutes vs. walking - more time for activities!
 
 #### Evening
+
 - Peaceful Slovenian atmosphere
 - Plan next days
 
 #### Campsite
+
 - **Camping Bled:** Best location, lakeside
 - **Šobec Camping:** Alternative nearby
 - €30-40/night
 
 ### Day 3 - Monday, June 1: Lake Bled - Full Day Exploration
+
 **Minimal car driving, local activities**
 
 #### Morning: Kayaking Lake Bled
+
 - **Launch:** Multiple spots around lake
 - **Paddle to island:**
   - Bled Island with Church of the Assumption
@@ -124,6 +139,7 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 - **Best time:** Early morning (glass-like water, fewer tourists)
 
 #### Late Morning: Bled Castle
+
 - **Drive or walk up:** 130m above lake
 - **Entry:** €15/person
 - **Best viewpoint** of entire lake
@@ -135,6 +151,7 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 #### Afternoon Options
 
 **Option A: Vintgar Gorge**
+
 - **4 km from Bled**
 - **Entry:** €10/person
 - **Boardwalk:** 1.6 km through canyon
@@ -144,42 +161,46 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 - **Duration:** 2 hours round trip
 
 **Option B: Viewpoint Hikes**
+
 - **Ojstrica Viewpoint:**
   - 20-30 minute steep hike
   - THE postcard Bled photo
   - Island, castle, mountains in one frame
-  
 - **Mala Osojnica:**
   - 30-40 minute hike
   - Higher viewpoint
   - Equally spectacular
 
 **Option C: Relaxed Afternoon**
+
 - **Traditional pletna boat:** Rowed boat to island (€15/person)
 - **Swimming:** Designated areas (cold but refreshing!)
 - **Village walk:** Charming Bled town
 
 #### Photography/Drone
+
 - Island from Ojstrica (iconic shot)
 - Castle overlooking lake
 - Mountain reflections at sunrise
 - Vintgar Gorge turquoise waters
 
 ### Day 4 - Tuesday, June 2: Lake Bohinj & Triglav National Park (Day Trip)
+
 **Car Round Trip:** ~60 km
 
 #### Morning: Lake Bohinj
+
 - **30 km from Bled**
 - **Larger, wilder** than Bled
 - **Less touristy, more natural**
 - **Triglav National Park** setting
 
 **Activities at Bohinj:**
+
 - **Kayaking:** Rent or use yours
   - Pristine alpine lake
   - Mountain backdrop (Mt. Triglav 2,864m)
   - Quieter than Bled
-  
 - **Swimming:** Designated beaches
 - **Church of St. John:** Lakeside 13th-century church
 - **Lakeside exploration:**
@@ -188,6 +209,7 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
   - 🚴 Bikes work well here on flat sections
 
 #### Savica Waterfall
+
 - **Near Lake Bohinj**
 - **15-minute walk** from parking (500 steps)
 - **78m waterfall** in gorge
@@ -198,6 +220,7 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 #### Afternoon Options
 
 **Option A: Vogel Cable Car**
+
 - **€18 return**
 - **Ski resort in summer**
 - **Elevation:** 1,535m
@@ -206,6 +229,7 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 - **Mountain restaurant**
 
 **Option B: Pokljuka Plateau**
+
 - **High plateau** above Bohinj
 - **Biathlon World Cup venue**
 - **Forest walks**
@@ -213,13 +237,16 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 - **Wildflowers** (spring/summer)
 
 **Option C: More Lake Time**
+
 - **Relax at Bohinj**
 - **Longer kayaking**
 - **Picnic by lake**
 - **Photography**
 
 ---
+
 ## CAMPSITE HUB #2: Ljubljana & Surroundings
+
 **Map:** https://maps.app.goo.gl/6QGTQAJtcmYm8AzY8  
 **Location:** Ljubljana or Postojna area  
 **Nights:** 2 nights (June 3-4)  
@@ -227,11 +254,13 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 **Move:** 60 km from Bled
 
 ### Day 5 - Wednesday, June 3: Bled → Ljubljana Area + City Exploration
+
 **Campervan Drive:** 60 km (1 hour)
 
 #### Morning: Leisurely departure from Bled
 
 #### Midday: Ljubljana
+
 - **Slovenia's charming capital**
 - **Park campervan** at campsite
 - **Transport to center:**
@@ -240,6 +269,7 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
   - **Option 3 - Drive:** Compact city, parking available
 
 **Ljubljana Highlights:**
+
 - **Ljubljana Castle:**
   - Funicular up (€4) or walk
   - Panoramic city views
@@ -268,19 +298,23 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 **Duration:** Afternoon/evening (city requires 4-6 hours)
 
 #### 🚴 Cycling Note
+
 - Ljubljana is one of Europe's most bike-friendly capitals
 - Dedicated bike lanes throughout city center
 - Free bike parking at most tourist spots
 
 #### Campsite
+
 - **Ljubljana Resort:** Near city
 - **Alternatively:** Camp near Postojna (50 km south)
 - €30-40/night
 
 ### Day 6 - Thursday, June 4: Postojna Cave & Predjama Castle (Day Trip)
+
 **Car Round Trip:** ~50 km from Ljubljana
 
 #### Morning: Postojna Cave
+
 - **One of world's largest cave systems**
 - **Entry:** €30/person (worth it!)
 - **Train ride** 3.7 km into cave
@@ -294,6 +328,7 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
   - Unique olm salamanders
 
 #### Midday: Predjama Castle
+
 - **10 km from Postojna**
 - **Built into 123m cliff!**
 - **Entry:** €16/person (or combo with cave €40)
@@ -306,6 +341,7 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 #### Afternoon Options
 
 **Option A: Škocjan Caves (Alternative)**
+
 - **Different cave system** (UNESCO)
 - **More dramatic** than Postojna
 - **Huge underground canyon**
@@ -314,12 +350,14 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 - **Choose one cave system** (both not necessary)
 
 **Option B: Return to Ljubljana**
+
 - **More city time**
 - **Museums:** National Museum, Modern Art
 - **Shopping:** Designer boutiques
 - **Relaxed afternoon**
 
 **Option C: Head toward coast early**
+
 - **Get head start** to Croatian coast
 - **Overnight closer** to Istria
 
@@ -328,6 +366,7 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 ---
 
 ## CAMPSITE HUB #3: Rovinj, Croatia (Istrian Peninsula)
+
 **Map:** https://maps.app.goo.gl/Z11e8MMuRDhWh7Hx8  
 **Location:** Rovinj
 **Nights:** 2 nights (June 5-6)  
@@ -335,14 +374,17 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 **Move:** 150 km from Ljubljana/Postojna
 
 ### Day 7 - Friday, June 5: Slovenia → Croatia + Rovinj Arrival
+
 **Campervan Drive:** 150 km (2-2.5 hours)
 
 #### Border Crossing
+
 - **Slovenia → Croatia:** Easy EU crossing
 - **Currency:** Croatia uses Euro (since 2023!)
 - **No vignette** in Croatia (toll booths on highways)
 
 #### Afternoon: Rovinj
+
 - **Most beautiful Istrian town**
 - Setup campsite
 - **Transport to old town:**
@@ -357,24 +399,29 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
   - Waterfront promenade
 
 #### 🚴 Cycling Note
+
 - Most Rovinj campsites 2-4 km from old town
 - Bikes save walking time and useful for beach hopping
 
 #### Evening
+
 - **Sunset from harbor:** Perfect photography
 - Croatian seafood dinner
 - Local Istrian wine (Malvazija white, Teran red)
 
 #### Campsites
+
 - **Polari Campsite:** Large, facilities, near Rovinj
 - **Villas Rubin:** Alternative with pools
 - **Mon Perin:** Upscale option
 - €35-45/night
 
 ### Day 8 - Saturday, June 6: Rovinj Coastal Kayaking, Exploration & Pula Option
+
 **Manage the Istria day from the Rovinj campsite hub**
 
 #### Morning: Sea Kayaking Rovinj
+
 - **Launch:** Rovinj beaches or harbor
 - **Explore:**
   - Coastal caves and grottos
@@ -382,19 +429,18 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
   - Red Island (Sveti Andrija) - 15 min paddle
   - Golden Cape (Zlatni Rt) forest park from water
   - Rocky coastline
-  
-- **Conditions:** 
+- **Conditions:**
   - Generally very calm
   - Adriatic perfect for kayaking
   - Clear turquoise water
   - Incredible visibility
-  
 - **Duration:** 3-4 hours
 - **Wildlife:** Fish visible underwater
 
 #### Afternoon: Choose Rovinj Coast or Pula Day Trip
 
 **Option A: Rovinj Peninsula Walk or Bike**
+
 - **Golden Cape (Zlatni Rt):** ⭐ BEST BIKE ROUTE
   - Forest park on peninsula
   - 7 km of coastal paths
@@ -406,6 +452,7 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
   - **Bikes highly recommended** - cover more ground, access more coves
 
 **Option B: Pula Roman Heritage Day Trip**
+
 - **Car Round Trip:** ~80 km
 - **40 km south of Rovinj**
 - **Roman Arena:**
@@ -424,24 +471,28 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 - **Trade-off:** Choose this instead of the relaxed Rovinj beach/cycling afternoon to keep the June 7 transfer day intact.
 
 #### 🚴 Cycling Highlight
+
 - **Zlatni Rt is THE place for bikes in Rovinj**
 - Explore hidden beaches and coves inaccessible by car
 - Stop anywhere for swimming, picnics, photos
 - One of Croatia's best cycling destinations
 
 #### Alternative Afternoon
+
 - **Beach time:** Multiple beaches around Rovinj
 - **Windsurfing lessons:** Available
 - **More kayaking:** Explore further
 - **Town exploration:** Galleries, shops
 
 #### Photography/Drone
+
 - Rovinj old town from water
 - Pula arena (multiple angles)
 - Coastal coves from above
 - Istrian hilltop villages
 
 ## CAMPSITE HUB #4: Zadar / Šibenik Region
+
 **Map:** https://maps.app.goo.gl/C81Mdon6tv9MVjKF8
 **Location:** Šibenik or between Zadar/Šibenik  
 **Nights:** 2 nights (June 7-8)  
@@ -449,19 +500,24 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 **Move:** 300 km from Rovinj (includes Plitvice stop)
 
 ### Day 9 - Sunday, June 7: Rovinj → Dalmatia via Plitvice Lakes
+
 **Campervan Drive:** 300 km (5-6 hours with park visit)
 
 #### Morning: Depart Rovinj
+
 - **8:00-9:00:** Early departure from Rovinj
 - Stock up on snacks/water for Plitvice
 
 #### Plitvice Lakes National Park (UNESCO)
+
 - **Arrive:** 10:30-11:00
+- **Entrance & Parking:** Go to **Entrance 1 (North)**. Follow signs for **oversized/campervan parking** (costs ~€10-15). It will be busy, so be patient finding a spot for the caravan.
 - **On route between regions**
 - **Must-visit Croatian highlight**
 - **Entry:** €20-40/person (varies by season)
 
 **The Park:**
+
 - **16 terraced lakes** connected by waterfalls
 - **Boardwalks** over and beside water
 - **Electric boats** and shuttle trains (included)
@@ -469,6 +525,7 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 - **Recommend:** 4-5 hour medium route (time-conscious)
 
 **Photography:**
+
 - Cascading waterfalls
 - Emerald and turquoise pools
 - Walkways providing unique angles
@@ -476,6 +533,7 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 - **One of most photogenic places in Europe**
 
 **Important:**
+
 - **No kayaking** (protected national park)
 - **No drones** (prohibited)
 - **Swimming prohibited**
@@ -483,6 +541,7 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 - **Arrive early** (gets very crowded - you'll be there 10:30-11:00, good timing!)
 
 #### Afternoon/Evening: Continue to Šibenik
+
 - **16:00-16:30:** Depart Plitvice
 - Drive 150 km to Šibenik area (2 hours)
 - **18:30-19:00:** Arrive Šibenik, setup campsite
@@ -492,56 +551,56 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 ⚠️ **Note:** This is a LONG day - 300 km total + 5 hours at Plitvice. Arrive at campsite, rest well.
 
 #### Campsite
+
 - **Solaris Campsite (Šibenik):** Large, modern
 - **Between Šibenik and Primošten:** Several options
 - €30-40/night
 
 ### Day 10 - Monday, June 8: Krka National Park + Šibenik + Zadar Morning
+
 **Car Round Trip:** ~140 km total
 
 #### Early Morning: Krka National Park (8:00-12:00)
+
 **Car drive:** ~40 km round trip
 
 - **7:30:** Early breakfast
-- **8:00-8:30:** Drive to Krka (20 km)
+- **8:00-8:30:** Drive to Krka (20 km). **Use the Lozovac Entrance** (free, easy parking for your car).
 - **Entry:** €15-30/person (seasonal)
 - **Different from Plitvice** (river gorge vs. lakes)
 - **Main attraction:** Skradinski Buk waterfall
   - 800m wide cascade system
   - 17 steps of waterfalls
   - Boardwalk circuit (1-2 hours)
-  
-- **Swimming ALLOWED** here! (unlike Plitvice)
-  - At designated area
-  - Below waterfalls
-  - Cool but refreshing
-  - Bring swimsuit!
-  - **Great after hot Plitvice day yesterday!**
+- ⚠️ **SWIMMING IS STRICTLY PROHIBITED** at Skradinski Buk (rules changed in 2021 to protect the ecosystem).
+  - Do not plan to swim here.
+  - Enjoy the morning light and peaceful photography before crowds arrive!
 
-**Duration at Krka:** 3-4 hours (including swimming)
+**Duration at Krka:** 3-4 hours
 
 #### Optional Krka Extensions (if time):
+
 - **Boat trip:** To Visovac Island
   - Franciscan monastery on island
   - Additional €12
-  
 - **Roški Slap:** Upper section of park
   - More waterfalls, less crowded
   - Traditional watermills
 
 #### Kayaking Option at Krka:
+
 - **Krka River sections** allow kayaking
 - Calm water, scenic canyon
 - Rentals available
 
 #### Midday: Šibenik Old Town (12:30-14:30)
+
 - Return to Šibenik for lunch
 - **UNESCO St. James Cathedral:**
   - Unique all-stone construction
   - No brick or wood
   - 15th-16th century
   - Free entry (donations appreciated)
-  
 - **Medieval town:**
   - Narrow stepped streets
   - Four fortresses (St. Michael's best views if time)
@@ -551,14 +610,14 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 **Duration:** 2 hours
 
 #### Afternoon: Zadar (15:00-18:30)
+
 **Car drive:** 50 km north (1 hour)
 
 - **Unique modern installations:**
-  - **Sea Organ:** 
+  - **Sea Organ:**
     - Steps that play music with waves
     - Designed by Nikola Bašić
     - Sit and listen (free, amazing!)
-    
   - **Greeting to the Sun:**
     - 22m diameter solar-powered light circle
     - Beautiful at sunset
@@ -577,12 +636,15 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 ⚠️ **Note:** This is a PACKED day covering Krka + Šibenik + Zadar. Skip Kornati Islands boat tour and Zadar afternoon options to fit everything. This is the trade-off for 2 nights vs. 3 nights.
 
 #### Zadar Afternoon Options SKIPPED:
+
 - ❌ **Kornati Islands Boat Tour** (requires full day - not enough time)
 - ❌ **Nin** (adds 30 km)
 - ❌ **Pag Island** (too far with full schedule)
 
 ---
+
 ## CAMPSITE HUB #5: Split & Central Dalmatia
+
 **Map:** https://maps.app.goo.gl/LRFhaFQDBJhMn9H48  
 **Location:** Split area (CAMPING STOBREČ SPLIT or similar)  
 **Nights:** 3 nights (June 9-11)  
@@ -590,16 +652,19 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 **Move:** 90 km from Šibenik
 
 ### Day 11 - Tuesday, June 9: Šibenik → Split + Arrival
+
 **Campervan Drive:** 90 km to Split (1.5 hours)
 
 #### Afternoon: Split Exploration
+
 - **Diocletian's Palace (UNESCO):**
   - 1,700-year-old Roman palace
   - **Entire old town inside palace complex!**
   - Roman emperor's retirement home
   - Now living city within walls
-  
+
 **Palace Highlights:**
+
 - **Peristyle:** Central square, sphinx
 - **Cathedral:** Built in emperor's mausoleum
 - **Cellars:** Underground chambers (€8 entry)
@@ -609,6 +674,7 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 - **Game of Thrones location**
 
 **Other Split:**
+
 - **Riva:** Waterfront promenade (palm trees, cafés)
   - 🚴 **Perfect for bikes** - long, flat, scenic promenade
   - Ride from campsite along coast to old town
@@ -621,11 +687,13 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 **Duration:** 3-4 hours minimum
 
 #### 🚴 Cycling Note
+
 - Split's Riva waterfront is ideal for cycling
 - Bike from campsite to avoid parking hassles
 - Marjan Hill has dedicated bike paths through pine forest
 
 #### Campsite
+
 - **CAMPING STOBREČ SPLIT:** Best campsite in Split area
   - Wellness center, swimming pool
   - Beach access
@@ -635,145 +703,76 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 - **Alternative:** Other Split area campsites if Stobreč full
 - €30-40/night (standard campsites)
 
-### Day 12 - Wednesday, June 10: Brač Island (Full Day)
-**Ferry + car on island**
+### Day 12 - Wednesday, June 10: 5-Island Speedboat Tour (Full Day)
 
-#### Recommended: Brač Island
-**Ferry from Split:**
-- **Split → Supetar:** 50 minutes
-- **Cost:** €6-8/person + €15-20 car
-- **Frequent departures**
-- **Book evening before** or arrive early (8:00-9:00 AM ferry recommended)
+**High-energy boat excursion from Split**
 
-#### Brač Exploration
+#### 10.5-Hour Speedboat Tour
 
-**Zlatni Rat (Golden Horn):**
-- **Croatia's most famous beach**
-- **Unique shape:** Triangular pebble beach extends into sea
-- **Shape changes** with currents and winds!
-- **Near Bol town** (20 km from Supetar)
-- **Perfect swimming**
-- **Windsurfing popular**
-- **Pebble beach** (water shoes helpful)
+- **Departure:** Split Harbor (usually around 8:00 AM)
+- **Cost:** ~€79/person
+- **Type:** Rigid Inflatable Boat (RIB) or speedboat
+- **Vibe:** Fast, adventurous, open-sea cruising
 
-**Vidova Gora:**
-- **Highest point** in Adriatic islands (778m)
-- **Drive:** Narrow mountain road from Bol
-- **Views:** Zlatni Rat from directly above (spectacular!)
-- **Or hike:** From Bol (2-3 hours up, strenuous)
-- **Absolutely worth it for photography**
+**What you will see:**
 
-**Kayaking:**
-- **Bol area:** Excellent coastal paddling
-- **Around Zlatni Rat**
-- **Explore coves**
-- **Crystal-clear water**
-- **Rentals in Bol** or bring your inflatable
+- **Blue Cave (Biševo Island):** Famous glowing blue sea cave (entry usually extra ~€12-18).
+- **Stiniva Cove (Vis Island):** Dramatic hidden pebble beach between towering cliffs.
+- **Budikovac Island (Blue Lagoon):** Crystal clear water for swimming/snorkeling.
+- **Pakleni Islands:** Stunning archipelago for swimming and relaxation.
+- **Hvar Town (Hvar Island):** Free time to explore this glamorous, historic island town (cafés, yachts, fortress views).
 
-**Full Day Schedule:**
-- **8:30:** Ferry departure Split
-- **9:30-10:00:** Arrive Supetar, drive to Bol (20 km)
-- **10:30-13:00:** Zlatni Rat beach + kayaking
-- **13:00-14:00:** Lunch in Bol
-- **14:30-15:30:** Drive up to Vidova Gora (photography!)
-- **16:00-17:00:** More beach time or explore Bol town
-- **17:30:** Drive back to Supetar
-- **18:00-18:30:** Ferry return to Split
-- **19:00:** Arrive back at campsite
+**Tips for the day:**
 
-#### Alternative: Hvar Island
-- **Ferry:** Split → Stari Grad (2 hours)
-- **More expensive, more upscale**
-- **Hvar Town:**
-  - Luxury yachts
-  - Lavender fields (June-July)
-  - Nightlife
-  - Fortress views
-- **Beautiful but busier/pricier**
+- **Bring:** Sunscreen, hat (that won't fly off), sunglasses, swimsuit, towel, water, and motion sickness pills if you are prone to seasickness.
+- **Be prepared:** Speedboats are fast and bumpy on the open sea. It is a thrilling but tiring day!
+- **Return:** Usually around 18:30 in Split. Head back to the campsite for a well-deserved rest.
 
-#### Photography/Drone
-- Zlatni Rat from Vidova Gora (iconic!)
-- Beach from various angles
-- Turquoise Adriatic water
-- Island landscapes
-- Traditional stone villages
+### Day 13 - Thursday, June 11: Choose Your Own Adventure (Leisure Day)
 
-### Day 13 - Thursday, June 11: Trogir + Split Leisure Day
-**Relaxed day before Dubrovnik push**
+**Relaxed day before the Dubrovnik push**
 
-#### Morning: Trogir (UNESCO Town) (9:00-13:00)
-**Car Round Trip:** 60 km from Split
+After yesterday's intense 10.5-hour speedboat tour, today is about flexibility. Decide how you feel and choose from these three options:
 
-- **30 km west of Split**
-- **Medieval island town** - entire old town on tiny island
-- **Less crowded** than Split or Dubrovnik
-- **Venetian architecture** beautifully preserved
+#### Option A: High Energy - Brač Island via Car Ferry (~€100)
 
-**Trogir Highlights:**
-- **Cathedral of St. Lawrence:**
-  - Romanesque-Gothic masterpiece
-  - Climb bell tower for views (€3)
-  - Radovan's Portal (13th century, intricate carvings)
-  
-- **Kamerlengo Fortress:**
-  - Venetian fortress on waterfront
-  - Walk the walls, panoramic views
-  - €3 entry
+**Best for:** Photographers wanting the iconic Vidova Gora view.
 
-- **Old Town Wander:**
-  - Narrow marble streets
-  - Small squares, palaces
-  - Waterfront promenade
-  - Local markets
-  - Charming cafés
+- **Ferry:** Take the car ferry from Split to Supetar (book ahead).
+- **Drive:** 40 minutes across the island to Bol.
+- **Vidova Gora:** Drive up the highest peak (778m) for the famous aerial photo looking down at Zlatni Rat.
+- **Zlatni Rat:** Spend the afternoon at the shape-shifting pebble beach.
+- **Note:** Adds significant driving and logistical stress to your recovery day.
 
-**Duration:** 3-4 hours  
-**Why worth it:** UNESCO site, authentic, fewer tourists, close to Split
+#### Option B: Medium Energy - Brač Island via Direct Catamaran (~€100)
 
-#### Afternoon: Split Relaxation (14:00-18:00)
+**Best for:** A stress-free beach day at Zlatni Rat without driving.
 
-**Choose Your Adventure:**
+- **Ferry:** Take the passenger-only catamaran directly from Split to Bol.
+- **Relax:** Walk (or take a water taxi) to Zlatni Rat beach.
+- **Note:** Zero driving stress, but you cannot easily get to the Vidova Gora mountain viewpoint.
 
-**Option A: Beach & Pool Day** ⭐ Recommended
-- Return to CAMPING STOBREČ SPLIT
-- **Use the amenities you're paying for!**
-- Swimming pool at campsite
-- Beach access (pebble beach)
-- **Wellness center** (sauna, massage if available)
-- Relax after 12 days of intense travel
-- Prepare for Dubrovnik intensity tomorrow
+#### Option C: Low Energy - Campsite & Split Local Exploration (~€10)
 
-**Option B: Marjan Hill Exploration** 🚴
-- **Marjan Forest Park** above Split
-- 🚴 **Perfect for bikes** - dedicated cycling paths
-- Pine forest, Mediterranean vegetation
-- Multiple viewpoints over Split and islands
-- **Distance:** 5-8 km of trails
-- Shaded (good for hot June afternoons)
-- Peaceful escape from city
+**Best for:** True recovery, history, and avoiding more boats.
 
-**Option C: More Split City Time**
-- Return to Diocletian's Palace
-- **Green Market** for local products
-- **Archaeological Museum** (if interested)
-- **Meštrović Gallery** (famous Croatian sculptor)
-- Shopping in old town
-- Cafés on Riva promenade
+- **Morning:** Sleep in! Enjoy the pool and beach at Camping Stobreč Split (the swimming pools will definitely be open in June!).
+- **Afternoon Local Options:**
+  - **Trogir (UNESCO):** Drive 30 km to this tiny, stunning medieval island-town.
+  - **More Split City Time:** Return to Diocletian's Palace, visit the Green Market for local products, the Archaeological Museum, the Meštrović Gallery, or just enjoy cafés on the Riva promenade.
+  - **Marjan Hill 🚴:** Bike or walk the dedicated paths in this pine forest park for multiple viewpoints over Split and the islands. Great shaded escape from the city.
+- **Evening:** Relaxed dinner in Split or back at the campsite.
+- **Highly Recommended:** This is the perfect balance after a long boat day.
 
 #### Evening (18:00-21:00)
-- **Pack for Dubrovnik** (checking out tomorrow morning)
-- Leisurely dinner (try local konoba)
-- Early to bed - big drive tomorrow (230 km to Dubrovnik)
-- **Enjoy the campsite facilities one last time!**
 
-#### 🚴 Cycling Note for Day 13
-- Marjan Hill is THE bike destination in Split
-- Forest paths, viewpoints, beaches
-- 🚴 If you bike, allow 2-3 hours for good exploration
+- **Pack for Dubrovnik** (checking out tomorrow morning)
+- Early to bed - big drive tomorrow (230 km to Dubrovnik)
 
 ---
 
 ## CAMPSITE HUB #6: Dubrovnik - "Pearl of the Adriatic"
+
 **Map:** https://maps.app.goo.gl/2LvnKqEcLrzA19QN7  
 **Location:** Dubrovnik area  
 **Nights:** 2 nights (June 12-13)  
@@ -781,9 +780,11 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 **Move:** 230 km from Split
 
 ### Day 14 - Friday, June 12: Split → Dubrovnik + Arrival
+
 **Campervan Drive:** 230 km (3-3.5 hours)
 
 #### Border Crossing Note
+
 - **Route options:**
   - **Highway (faster):** Through Bosnia-Herzegovina Neum corridor
     - 20 km BiH territory (show passport, no visa needed for EU citizens)
@@ -791,6 +792,7 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
   - **Coastal road (scenic):** Via Ploče
 
 #### Afternoon: Dubrovnik Arrival
+
 - Arrive early afternoon
 - Setup campsite
 - **Transport to old town:**
@@ -810,6 +812,7 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
   - Sunset views from walls area (outside, free)
 
 #### 🚴 Cycling Highlight for Dubrovnik
+
 - **Bikes are GAME-CHANGERS in Dubrovnik**
 - Save €12+ over 2 days in bus tickets
 - Avoid bus schedules and waiting
@@ -818,10 +821,12 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 - Parking nightmare solved - bikes park easily
 
 #### Evening
+
 - Dinner in old town (atmospheric but pricey)
 - Explore evening atmosphere
 
 #### Campsites
+
 - **Camping Solitudo:** Near Lapad peninsula, 4 km from old town
   - Good facilities, bus to old town (frequent, €1.50)
   - €40-50/night
@@ -829,9 +834,11 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 - Most expensive camping of trip but worth it for Dubrovnik
 
 ### Day 15 - Saturday, June 13: Dubrovnik - City Walls, Mt. Srđ & Lokrum (Intensive Day)
+
 **Main sightseeing day - maximizing the experience**
 
 #### Early Morning: City Walls Walk (8:00-10:00)
+
 **THE highlight of Dubrovnik - don't miss!**
 
 - **Transport:** 🚴 Bike to old town (7:30 AM departure from campsite)
@@ -843,6 +850,7 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 - **Direction:** Counter-clockwise recommended (easier stairs)
 
 **What you'll see:**
+
 - **Old town rooftops** below (iconic terracotta tiles)
 - **Adriatic Sea** crashing against fortifications
 - **Lokrum Island** offshore
@@ -851,6 +859,7 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 - **360-degree views** - simply spectacular
 
 **Tips:**
+
 - **Bring water** (no shade, gets hot even in Sept)
 - **Wear hat, sunscreen**
 - **Water €3-4 inside** (expensive)
@@ -859,6 +868,7 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 - **One of Europe's best experiences**
 
 #### Mid-Morning: Old Town Exploration (10:00-12:30)
+
 - **Stradun (Placa):** Main street, people-watching
 - **Onofrio's Fountain:** Large 15th-century fountain
 - **Rector's Palace:** €10 entry, Gothic-Renaissance, museum
@@ -867,15 +877,18 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 - **Sponza Palace:** Beautiful Gothic-Renaissance courtyard
 
 #### Lunch (12:30-14:00)
+
 - **Return to campsite** (save money, relax in shade) OR
 - **Lunch in old town** (budget €20-30/person, touristy but atmospheric)
 
 #### Afternoon: Cable Car to Mt. Srđ (14:00-17:00)
+
 - **Cable car from old town** (just outside Ploče Gate)
 - **€30/person return** (or hike free - 30-40 min up, steep!)
 - **Elevation:** 412m above sea level
 
 **THE panoramic view:**
+
 - Entire old town from directly above
 - Red terracotta roofs, walls, harbor layout visible
 - Adriatic stretching to horizon
@@ -884,15 +897,18 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 - Best at sunset (but very crowded then)
 
 **At the top:**
+
 - **Restaurant:** Decent food, pricey (€15-25 mains)
 - **War Museum:** Homeland War 1991-95 (€5, provides historical context)
 - **Old bunker:** Explorable
 - **360-degree viewing platform**
 
 #### Late Afternoon: Lokrum Island OR Sea Kayaking (16:00-19:00)
+
 **Choose ONE option - time is limited with 2-night stay:**
 
 **Option A: Lokrum Island (Recommended for 2-night stay)**
+
 - **Ferry from old town harbor:** €15 return, 10 minutes
 - **Quick visit (3 hours):**
   - Botanical gardens with peacocks
@@ -904,6 +920,7 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 - **More relaxed option** for limited time
 
 **Option B: Sea Kayaking Around Walls (Alternative)**
+
 - **Guided afternoon tour:** €40-60/person, 2.5 hours
 - **OR DIY with inflatable kayak:**
   - Launch: Pile Beach or Banje Beach
@@ -916,12 +933,14 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 - Protected bay, calm conditions
 
 **Option C: Beach Afternoon (Most Relaxed)**
+
 - **Banje Beach:** Main city beach, views of old town
 - Swimming, sunbathing, relaxation
 - After intensive morning sightseeing
 - Prepare for early departure tomorrow
 
 #### Evening (19:00-21:00)
+
 - **Dinner** at good restaurant (splurge night!)
   - Fresh seafood
   - Croatian wine
@@ -935,23 +954,28 @@ You must choose activities wisely - Day 14 is arrival/orientation, Day 15 is int
 ---
 
 ## Days 16-17: Return Journey to Netherlands
+
 **Two-day return (non-negotiable for safety and comfort)**
 
 ### Day 16 - Sunday, June 14: Dubrovnik → Slovenia/Austria Border
+
 **First leg of return journey**
 
 #### Morning Departure from Dubrovnik (09:00-10:00)
+
 - **Optional:** Quick early swim at Banje Beach (7:00-8:30am if you want)
 - Breakfast at campsite
 - Pack up campervan
 - **Depart by 09:00-10:00** (aiming for 9am)
 
 #### Drive to Slovenia/Austria Border
+
 - **Distance:** ~800 km
 - **Driving time:** 8-9 hours with breaks
 - **Route:** Dubrovnik → Split → Šibenik → Plitvice area → Zagreb → Ljubljana → Austria border
 
 **Recommended stops:**
+
 - **11:30-12:30:** Lunch break in Split area (3 hours in)
 - **14:30:** Coffee/rest break (2 hours later)
 - **16:30:** Coffee/rest break (2 hours later)
@@ -960,29 +984,35 @@ You must choose activities wisely - Day 14 is arrival/orientation, Day 15 is int
 **Arrive:** 19:00-20:00 at campsite near Ljubljana or Austrian border
 
 #### Evening
+
 - Setup at campsite
 - Relaxed evening (already had dinner)
 - Early to bed for final push tomorrow
 
 #### Campsite Options
+
 - **Ljubljana area:** Ljubljana Resort or similar (€30-40)
 - **Austrian border area:** Villach region campsites (€30-40)
 - **Book ahead** or arrive with flexibility
 
 ### Day 17 - Monday, June 15: Slovenia/Austria → Netherlands
+
 **Final leg - arrive home!**
 
 #### Morning Departure (08:00)
+
 - Breakfast at campsite
 - Pack up
 - Depart 08:00
 
 #### Drive to Netherlands
+
 - **Distance:** ~950 km
 - **Driving time:** 9-10 hours with breaks
 - **Route:** Slovenia/Austria → Austria → Germany → Netherlands
 
 **Recommended stops:**
+
 - **10:30:** Coffee/rest break in Austria
 - **12:30-13:30:** Lunch in southern Germany (Munich area)
 - **15:30:** Coffee/rest break
@@ -993,11 +1023,13 @@ You must choose activities wisely - Day 14 is arrival/orientation, Day 15 is int
 **Return Date:** Monday, June 15 around 7-8 PM
 
 #### Arrival
+
 - Unpack gradually (no rush!)
 - Celebrate an amazing 17-day journey!
 - Start planning next adventure!
 
 **Why Two-Day Return is Non-Negotiable:**
+
 - **Safety first:** 1,750 km in one day (16-17 hours) is exhausting and dangerous
 - **Comfort:** Arrive home refreshed, not destroyed
 - **Flexibility:** Room for unexpected delays (traffic, border waits, rest needs)
@@ -1030,19 +1062,20 @@ You must choose activities wisely - Day 14 is arrival/orientation, Day 15 is int
 
 ## Budget Estimate (17 Days)
 
-| Category | Cost (EUR) |
-|----------|------------|
-| Fuel (5,500 km @ €0.16-0.18/km) | €880-990 |
-| Tolls & vignettes | €120-160 |
-| Camping (16 nights) | €605-720 |
-| Food & groceries (17 days) | €750-950 |
-| National park entries | €120-180 |
-| Activities (ferries, cable cars) | €200-300 |
-| Attractions (walls, castles, museums) | €180-250 |
-| Dubrovnik premium (higher costs) | €80-120 |
-| **Total** | **€2,935-3,670** |
+| Category                              | Cost (EUR)       |
+| ------------------------------------- | ---------------- |
+| Fuel (5,500 km @ €0.16-0.18/km)       | €880-990         |
+| Tolls & vignettes                     | €120-160         |
+| Camping (16 nights)                   | €605-720         |
+| Food & groceries (17 days)            | €750-950         |
+| National park entries                 | €120-180         |
+| Activities (ferries, cable cars)      | €200-300         |
+| Attractions (walls, castles, museums) | €180-250         |
+| Dubrovnik premium (higher costs)      | €80-120          |
+| **Total**                             | **€2,935-3,670** |
 
 ### Additional Dubrovnik-Specific Costs
+
 - City walls: €70 (2 people)
 - Cable car: €60 (2 people)
 - Lokrum ferry OR kayaking: €30-120 (depending on choice)
@@ -1052,6 +1085,7 @@ You must choose activities wisely - Day 14 is arrival/orientation, Day 15 is int
 **Compared to fly + rent (€4,730):** Still €1,090-1,830 cheaper even with Dubrovnik included!
 
 ### Money-Saving Tips
+
 - **Stock up in Germany/Austria** before Slovenia/Croatia (cheaper groceries)
 - **Croatia affordable** compared to Western Europe (except Dubrovnik)
 - **Supermarkets:** Konzum, Lidl, Plodine, Tommy, Kaufland
@@ -1067,6 +1101,7 @@ You must choose activities wisely - Day 14 is arrival/orientation, Day 15 is int
 ## Practical Tips
 
 ### Border Crossings
+
 - **All EU countries:** Easy crossings, usually no checks
 - **Vignettes needed:**
   - Austria: €9.90 (10-day)
@@ -1075,14 +1110,16 @@ You must choose activities wisely - Day 14 is arrival/orientation, Day 15 is int
 - **Bosnia-Herzegovina corridor (Neum):** Just show passport, no visa needed
 
 ### Currencies
+
 - **All use Euro:** Slovenia and Croatia (since 2023)
 - Very convenient - same currency throughout!
 - Cards widely accepted everywhere
 - Some cash useful (small shops, parking meters)
 
 ### Driving Tips
+
 - **Slovenia:** Excellent roads, well-maintained, easy driving
-- **Croatia:** 
+- **Croatia:**
   - **Jadranska Magistrala (coastal road):** Scenic but slow, winding
   - **Highway (A1):** Faster, tolls, misses coastal views
   - **Recommendation:** Highway for long distances, coastal for enjoying scenery
@@ -1092,6 +1129,7 @@ You must choose activities wisely - Day 14 is arrival/orientation, Day 15 is int
 ### Kayaking Specifics
 
 **Lake Bled/Bohinj:**
+
 - Water temp: 16-18°C (May/June), 20-22°C (Sept)
 - Conditions: Very calm, mirror-like
 - Perfect for inflatable kayak
@@ -1099,6 +1137,7 @@ You must choose activities wisely - Day 14 is arrival/orientation, Day 15 is int
 - Bring in morning for best conditions
 
 **Adriatic Sea (Rovinj, Split, Dubrovnik):**
+
 - Water temp: 18-21°C (May/June), 23-26°C (Sept)
 - Conditions: Generally calm along coast, protected bays
 - Incredible visibility (see 10m+ down)
@@ -1107,6 +1146,7 @@ You must choose activities wisely - Day 14 is arrival/orientation, Day 15 is int
 - Morning calmest (before afternoon winds)
 
 **Dubrovnik Sea Kayaking:**
+
 - Protected bay, very calm
 - Unique experience (paddle around 1,700-year-old walls!)
 - Bring waterproof camera/GoPro
@@ -1155,11 +1195,13 @@ You must choose activities wisely - Day 14 is arrival/orientation, Day 15 is int
    - Explore multiple beaches
 
 **Where NOT to Use Bikes:**
+
 - ❌ Day trips to Pula, Zadar, Krka, Plitvice (too far)
 - ❌ Old town cobblestones (walk bikes in narrow streets)
 - ❌ Mountain viewpoint hikes (leave bikes at base)
 
 **Bike Safety & Tips:**
+
 - **Locks:** Bring 2 good locks (old towns are tourist hotspots)
 - **Helmets:** Recommended, required for children under 16
 - **Lights:** Front white, rear red (required for night riding)
@@ -1169,12 +1211,14 @@ You must choose activities wisely - Day 14 is arrival/orientation, Day 15 is int
 - **Water bottles:** Bring holders - June can be hot
 
 **Cost Savings with Bikes:**
+
 - Dubrovnik: Save €12 in bus tickets (2 days)
 - Ljubljana: Save €8-10 in bus/parking
 - Split: Save parking fees €6-8
 - **Total savings: ~€25-30** vs. convenience cost
 
 ### Languages
+
 - **Slovenia:** Slovenian (English widely spoken, especially younger generation and tourist areas)
 - **Croatia:** Croatian (English common in tourist areas, less in rural regions)
 - Basic phrases appreciated:
@@ -1187,6 +1231,7 @@ You must choose activities wisely - Day 14 is arrival/orientation, Day 15 is int
 ### Food Highlights
 
 **Slovenia:**
+
 - **Kremšnita (Bled cream cake)** - MUST TRY! Original at Park Hotel
 - Štruklji (rolled dumplings, sweet or savory)
 - Kranjska klobasa (Carniolan sausage)
@@ -1194,6 +1239,7 @@ You must choose activities wisely - Day 14 is arrival/orientation, Day 15 is int
 - Slovenian wines (excellent quality, affordable)
 
 **Croatia:**
+
 - **Fresh seafood** (daily catch, simply grilled - perfection!)
 - Black risotto (squid ink, acquired taste but traditional)
 - **Peka** (slow-cooked under bell, meat or octopus - ORDER AHEAD, takes 2-3 hours)
@@ -1207,6 +1253,7 @@ You must choose activities wisely - Day 14 is arrival/orientation, Day 15 is int
 - **Pag cheese:** Hard sheep cheese, distinctive salty flavor
 
 **Dubrovnik Specifically:**
+
 - Prices 30-50% higher than rest of Croatia
 - Quality varies (some touristy mediocre places)
 - **Recommended restaurants:**
@@ -1220,11 +1267,12 @@ You must choose activities wisely - Day 14 is arrival/orientation, Day 15 is int
 ### Photography & Drone
 
 **Drone Regulations:**
-- **Slovenia:** 
+
+- **Slovenia:**
   - Registration required for drones >250g
   - Prohibited in national parks
   - Check local regulations online
-- **Croatia:** 
+- **Croatia:**
   - Drones <500g: no registration needed
   - Heavier drones: register online (easy, free)
   - **Prohibited:** National parks, old towns (including Dubrovnik!), near airports
@@ -1233,6 +1281,7 @@ You must choose activities wisely - Day 14 is arrival/orientation, Day 15 is int
 - Early morning = best light + no crowds
 
 **Best Photography Locations:**
+
 1. **Lake Bled from Ojstrica viewpoint** - THE iconic Slovenia shot
 2. **Plitvice waterfalls** - Long exposure magic, turquoise pools
 3. **Rovinj old town** from harbor at golden hour
@@ -1247,6 +1296,7 @@ You must choose activities wisely - Day 14 is arrival/orientation, Day 15 is int
 ### Safety & Security
 
 **Campsites:**
+
 - Very safe to leave campervan during day trips
 - Official campsites have security, staff presence, community
 - Lock doors, don't leave valuables visible through windows
@@ -1255,6 +1305,7 @@ You must choose activities wisely - Day 14 is arrival/orientation, Day 15 is int
 - No concerns in this region
 
 **General Safety:**
+
 - Slovenia and Croatia among safest countries in Europe
 - Very low crime rates
 - Tourist-friendly populations
@@ -1267,7 +1318,9 @@ You must choose activities wisely - Day 14 is arrival/orientation, Day 15 is int
 ## Alternative Adjustments
 
 ### If You Have 19-20 Days
+
 **Options to add:**
+
 - **Extra Dubrovnik night (3 instead of 2):**
   - More relaxed pace in Dubrovnik
   - Do BOTH sea kayaking AND Lokrum Island (separate days)
@@ -1287,23 +1340,26 @@ You must choose activities wisely - Day 14 is arrival/orientation, Day 15 is int
   - €50-80/person
 
 ### If You Only Have 16 Days
+
 **Not recommended - 17 days is already optimized minimum for this route including Dubrovnik**
 
 If absolutely necessary:
+
 - **Reduce Lake Bled:** 3 nights → 2 nights
   - Still see main sights (Bled, Bohinj, choose Vintgar OR viewpoint hike)
   - Tighter but doable
-  
 - **Do NOT reduce Dubrovnik below 2 nights** - too rushed, city walls alone needs half day
 - **Do NOT eliminate 2-day return** - safety and comfort non-negotiable
 
 ### For More Swimming/Beach Focus
+
 - Add Makarska between Split and Dubrovnik
 - Spend more time at Zlatni Rat (Brač)
 - Skip Pula day trip, more Rovinj beach time
 - Add Lokrum Island full day in Dubrovnik
 
 ### For More Active/Adventure Trip
+
 - **Via ferrata:** Slovenia has excellent routes (Triglav National Park)
 - **Canyoning:** Available in multiple locations both countries
 - **Multi-day hiking:** Triglav National Park hut-to-hut
@@ -1312,7 +1368,9 @@ If absolutely necessary:
 - **Rafting:** Soča River, Slovenia (emerald green, spectacular!)
 
 ### If Weather Is Bad
+
 **Indoor/Covered Activities:**
+
 - **Postojna Cave** (always 10°C, weather irrelevant)
 - **Museums:** Ljubljana National Museum, Split Archaeological, Dubrovnik museums
 - **Diocletian's Palace cellars** (underground, covered)
@@ -1322,6 +1380,7 @@ If absolutely necessary:
 - **Cooking classes:** Learn to make Croatian dishes
 
 **Rain Alternatives:**
+
 - Plitvice actually beautiful in light rain (fewer crowds, moody photos, waterfalls fuller)
 - Old town exploration with umbrella
 - Cable cars still operate (unless very windy)
@@ -1348,23 +1407,23 @@ If absolutely necessary:
 ✅ **Island hopping** - Brač, Lokrum, options for more  
 ✅ **Natural wonders** - Some of Europe's most beautiful landscapes  
 ✅ **Cultural immersion** - Roman ruins, medieval towns, Venetian architecture  
-✅ **Flexible transport** - Bikes save money and parking hassles in cities  
+✅ **Flexible transport** - Bikes save money and parking hassles in cities
 
 ---
 
 ## Campsite Summary
 
-| Location | Type | Nights | Cost/Night | Total | Notes |
-|----------|------|--------|------------|-------|-------|
-| Munich area | Transit | 1 | €30-40 | €35 | Stopover |
-| Lake Bled | Camping Bled | 3 | €30-40 | €105-120 | Lakeside, Slovenia |
-| Ljubljana area | Ljubljana Resort | 2 | €30-40 | €70-80 | Near capital |
-| Rovinj | Polari / Rubin | 2 | €35-45 | €80-90 | Beach access, Istria |
-| Šibenik | Solaris | 2 | €30-40 | €70-80 | Modern, Dalmatia |
-| **Split area** | **CAMPING STOBREČ SPLIT** | **3** | **€40-45** | **€120-135** | **Wellness, pool, beach** |
-| **Dubrovnik** | **Solitudo** | **2** | **€40-50** | **€90-100** | **Premium location** |
-| Return (Slovenia) | Various | 1 | €30-40 | €35 | 2-day return stopover |
-| **TOTAL** | | **16** | | **€605-720** | |
+| Location          | Type                      | Nights | Cost/Night | Total        | Notes                     |
+| ----------------- | ------------------------- | ------ | ---------- | ------------ | ------------------------- |
+| Munich area       | Transit                   | 1      | €30-40     | €35          | Stopover                  |
+| Lake Bled         | Camping Bled              | 3      | €30-40     | €105-120     | Lakeside, Slovenia        |
+| Ljubljana area    | Ljubljana Resort          | 2      | €30-40     | €70-80       | Near capital              |
+| Rovinj            | Polari / Rubin            | 2      | €35-45     | €80-90       | Beach access, Istria      |
+| Šibenik           | Solaris                   | 2      | €30-40     | €70-80       | Modern, Dalmatia          |
+| **Split area**    | **CAMPING STOBREČ SPLIT** | **3**  | **€40-45** | **€120-135** | **Wellness, pool, beach** |
+| **Dubrovnik**     | **Solitudo**              | **2**  | **€40-50** | **€90-100**  | **Premium location**      |
+| Return (Slovenia) | Various                   | 1      | €30-40     | €35          | 2-day return stopover     |
+| **TOTAL**         |                           | **16** |            | **€605-720** |                           |
 
 ---
 
@@ -1373,6 +1432,7 @@ If absolutely necessary:
 ### Late September (Sept 20-30) ⭐ OPTIMAL
 
 **Why this is the perfect window:**
+
 - **Water temps ideal:** 23-25°C Adriatic (perfect swimming!), 18-20°C lakes (refreshing)
 - **Crowds minimal:** Peak season over, cruise ships reduced in Dubrovnik
 - **Weather excellent:** 25-28°C days, sunny, low rain probability
@@ -1383,6 +1443,7 @@ If absolutely necessary:
 - **Dubrovnik manageable:** Still tourists but nowhere near July-August chaos
 
 **This timing perfect for:**
+
 - Swimming comfort (warm enough without wetsuit)
 - Avoiding crowds (especially important in Dubrovnik)
 - Better prices (significant savings)
@@ -1392,25 +1453,30 @@ If absolutely necessary:
 ### Other Seasons Comparison
 
 **May 25-31:**
+
 - Pros: Quietest time, spring flowers, lush green landscapes
 - Cons: Cold Slovenia lakes (16-18°C), cool Adriatic (18-21°C, refreshing not comfortable)
 - Verdict: Good if avoiding crowds > swimming comfort
 
 **June 1-18:**
+
 - Pros: Warming up, good balance, wildflowers
 - Cons: Prices rising, more tourists arriving, building toward peak
 - Verdict: Solid choice, safe middle ground
 
 **Late June:**
+
 - Cons: Getting crowded, prices high, Dubrovnik busy
 - Verdict: Avoid if possible
 
 **July-August (Peak Summer):**
+
 - Pros: Warmest water (26-28°C), everything open, longest days
 - Cons: VERY crowded (Dubrovnik nightmare - 6,000+ cruise passengers daily), expensive, hot (35°C+), parking difficult
 - Verdict: **Strongly avoid** given your crowd-avoidance priority
 
 **October 1-12:**
+
 - Pros: Cheapest, very quiet, good water still (20-23°C)
 - Cons: Some facilities closing, cooler days (20-23°C), higher rain risk, some ferries reduced
 - Verdict: Good if budget very tight and don't mind uncertainty
@@ -1449,6 +1515,6 @@ The hub-and-spoke model ensures you're never rushed, with 2-3 nights at each loc
 
 ---
 
-*Last updated: March 9, 2026*  
-*Itinerary optimized for 17 days including Dubrovnik extension*  
-*Trip dates: May 30 - June 15, 2026 (early summer season)*
+_Last updated: March 9, 2026_  
+_Itinerary optimized for 17 days including Dubrovnik extension_  
+_Trip dates: May 30 - June 15, 2026 (early summer season)_

@@ -29,7 +29,7 @@ This approach provides:
 
 ## 10-Day Itineraries
 
-### 1. [Norwegian Fjords Adventure](./10-day/01-norwegian-fjords.md)
+### 1. [Norwegian Fjords Adventure](itineraries/01-norwegian-fjords.md)
 **Best Season:** June-August  
 **Total Distance:** ~3,400 km  
 **Budget:** €1,740-2,230
@@ -51,7 +51,7 @@ This approach provides:
 
 ---
 
-### 2. [Alpine Lakes Circuit](./10-day/02-alpine-lakes.md)
+### 2. [Alpine Lakes Circuit](itineraries/02-alpine-lakes.md)
 **Best Season:** June-September  
 **Total Distance:** ~2,900 km  
 **Budget:** €1,460-2,020
@@ -75,7 +75,7 @@ This approach provides:
 
 ## 15-Day Itineraries
 
-### 1. [Scottish Highlands & Islands](./15-day/01-scottish-highlands.md)
+### 1. [Scottish Highlands & Islands](itineraries/01-scottish-highlands.md)
 **Best Season:** May-September  
 **Total Distance:** ~4,200 km  
 **Budget:** €2,250-3,080
@@ -98,7 +98,7 @@ This approach provides:
 
 ---
 
-### 2. [Adriatic Coast Explorer](./15-day/02-adriatic-coast.md)
+### 2. [Adriatic Coast Explorer](itineraries/02-adriatic-coast.md)
 **Best Season:** May-June or September-October  
 **Total Distance:** ~5,200 km  
 **Budget:** €2,330-3,060
@@ -121,7 +121,7 @@ This approach provides:
 
 ---
 
-### 3. [French & Spanish Atlantic + Pyrenees](./15-day/03-french-spanish-atlantic.md)
+### 3. [French & Spanish Atlantic + Pyrenees](itineraries/03-french-spanish-atlantic.md)
 **Best Season:** May-June or September-October  
 **Total Distance:** ~4,800 km  
 **Budget:** €2,250-2,970
@@ -144,7 +144,7 @@ This approach provides:
 
 ---
 
-### 4. [Italian Lakes & Mountains](./15-day/04-italian-lakes-mountains.md)
+### 4. [Italian Lakes & Mountains](itineraries/04-italian-lakes-mountains.md)
 **Best Season:** May-June or September-October  
 **Total Distance:** ~4,800 km  
 **Budget:** €2,480-3,300
@@ -599,3 +599,30 @@ The best trips often include unplanned stops and spontaneous detours!
 ---
 
 **Safe travels and amazing adventures ahead! 🚐 🏔️ 🛶 📸**
+
+---
+
+## 🧭 Special Custom Itineraries
+
+### 1. [Croatia & Slovenia Epic (17-18 Days)](itineraries/croatia-slovenia.md)
+**Best Season:** May-June or September  
+**Highlights:** Lake Bled, Plitvice Lakes, Krka, Split, Hvar/Brač, Dubrovnik  
+**Tracker:** [View CSV Trip Tracker](itineraries/croatia-slovenia-trip-tracker.csv)
+
+### 2. [Croatia & Slovenia Summary & Budget](itineraries/SUMMARY-18day-with-dubrovnik.md)
+**Purpose:** Quick 1-page overview and drive-vs-fly budget breakdown.
+
+---
+
+## 🗺️ Place Guides & Resources
+
+### [Croatia & Slovenia Place Guide](guides/croatia-slovenia-place-guide.md)
+**Purpose:** Detailed regional context, history, and photography tips for the Adriatic region.
+
+---
+
+## 🎬 Video Scripts (For YouTube/Vlog)
+
+### 1. [Croatia & Slovenia Core Script](video-scripts/croatia-slovenia.md)
+### 2. [Croatia & Slovenia Extended Script](video-scripts/croatia-slovenia%20copy.md)
+
