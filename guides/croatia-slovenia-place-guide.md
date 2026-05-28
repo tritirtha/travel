@@ -378,11 +378,15 @@ Krka is not wilderness untouched by humans. It is a river landscape where people
 
 ### History And Background
 
-Unlike many coastal cities founded by Greeks or Romans, Šibenik is usually described as a Croatian-founded city. Its medieval old town rises from the harbor in steep stone lanes.
+Šibenik holds a very special, proud place in Croatian history. If you look at almost every other major city on the Adriatic coast—Pula, Zadar, Trogir, Split, Dubrovnik—they were all founded by ancient Greeks, Romans, or Illyrians. **Šibenik is the exception: it is the oldest native Croatian town on the shores of the sea**, first mentioned in 1066 by the Croatian King Petar Krešimir IV.
 
-The Cathedral of St. James is a UNESCO World Heritage Site. Built in the 15th and 16th centuries, it is famous for being constructed entirely from stone using innovative techniques, without brick or wooden structural elements. Its frieze of carved human heads is one of its most distinctive features.
+Because of its strategic position in a deep, protected bay where the Krka River meets the Adriatic, it was constantly fought over. It resisted the Venetian Empire for a long time before finally falling under their control in 1412. Shortly after, the terrifying Ottoman Empire began expanding westward. To protect themselves from constant Ottoman attacks, the citizens built a massive, intimidating network of four separate fortresses surrounding the city and guarding the sea channel.
 
-Šibenik also has several fortresses, showing its defensive importance along the coast.
+But Šibenik's greatest historical triumph is architectural: the **Cathedral of St. James** (a UNESCO World Heritage Site). Built in the 15th and 16th centuries, it is an absolute marvel of engineering. The master architect, Juraj Dalmatinac (George the Dalmatian), used an ingenious method of interlocking stone slabs—building the entire cathedral, including the massive dome, completely out of stone. There is absolutely no brick or wooden support structure anywhere in the building. It was built like a massive, 3D stone puzzle.
+
+Even more fascinating, Juraj carved 71 stone heads around the exterior of the cathedral. These aren't saints or kings; they are actual, realistic portraits of ordinary citizens of Šibenik from the 15th century—a remarkably humanist, modern touch for the time.
+
+Finally, Šibenik has a hidden piece of modern history: thanks to the nearby Krka waterfalls (where you will be visiting), Šibenik became the first city in the world with alternating current (AC) street lights. The Jaruga Hydroelectric Power Plant on the Krka River—based on Nikola Tesla's AC system—went live in August 1895, just two days after Tesla's famous Niagara Falls plant!
 
 ### Interesting Facts
 
