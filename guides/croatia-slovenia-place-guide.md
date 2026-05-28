@@ -308,11 +308,15 @@ Plitvice is Croatia's most famous natural wonder: sixteen terraced lakes linked 
 
 ### History And Background
 
-The landscape is shaped by tufa formation. Water rich in calcium carbonate flows over moss, algae, and microorganisms. Over time, minerals settle and create natural barriers. These barriers grow slowly, forming new cascades and pools.
+The defining feature of Plitvice is not just that it has waterfalls, but that the waterfalls are literally alive and constantly changing. The landscape is shaped by a biological and geological process called _tufa_ (or travertine) formation.
 
-Plitvice became Croatia's first national park in 1949 and was added to the UNESCO World Heritage list in 1979. It also has a painful modern history. The Plitvice Lakes incident in March 1991 is often considered one of the first armed clashes of the Croatian War of Independence.
+Water flowing through the karst (limestone) landscape becomes heavily saturated with calcium carbonate. As this water flows over moss, algae, and specific types of bacteria in the riverbed, a chemical reaction occurs that causes the calcium carbonate to crystallize and encrust the living plants.
 
-Today the park is restored and protected. Swimming, kayaking, and drones are prohibited to preserve the fragile system.
+Over centuries, this creates natural limestone barriers across the river. Because the moss keeps growing upward to reach the sunlight, the stone barriers actually _grow_ vertically by about 1 to 3 centimeters per year. This means the waterfalls you see today are not the same shapes or heights they were 500 years ago, and they will look different in the future.
+
+Plitvice became Croatia's first national park in 1949 and was added to the UNESCO World Heritage list in 1979. It also has a painful modern history. The "Plitvice Bloody Easter" incident in March 1991, which took place right inside the park, is considered the very first armed clash that sparked the Croatian War of Independence.
+
+Today the park is restored and fiercely protected. Swimming, kayaking, and drones are strictly prohibited precisely because humans touching the moss or walking in the water would instantly destroy the delicate bacterial balance that causes the tufa barriers to grow.
 
 ### Interesting Facts
 
@@ -442,11 +446,17 @@ Split is not simply a city with Roman ruins. Its old town grew inside the retire
 
 ### History And Background
 
-Diocletian ruled the Roman Empire from 284 to 305 AD. He is famous for major reforms and for dividing imperial power among multiple rulers. He then did something unusual: he retired. His palace near his birthplace on the Dalmatian coast became a fortified imperial residence.
+Diocletian ruled the massive Roman Empire from 284 to 305 AD. He is famous for two things: dividing the collapsing empire into four sections to save it, and launching the brutal "Great Persecution" against early Christians. But his most unique act was that he became the only Roman Emperor to ever voluntarily retire.
 
-After the Roman period, people moved into the palace walls for protection. Over centuries, rooms became homes, corridors became streets, and the emperor's mausoleum became the Cathedral of St. Domnius. This is one of history's great reversals: a persecutor of Christians buried in a mausoleum that later became a Christian cathedral.
+When he abdicated his absolute power, he returned to his home region of Dalmatia and built a massive, heavily fortified luxury retirement home right on the sea. It was half luxury villa, half military fortress, measuring roughly 160 by 190 meters. According to legend, when later emperors begged him to return to power to fix the crumbling empire, he replied that if they could see the beautiful cabbages he was growing with his own hands in his garden, they would never ask him to rule again.
 
-Today Split's old town is a living urban organism inside Roman architecture.
+But the real story of Split happened _after_ the Roman Empire fell.
+
+In the 7th century, invading Slavic and Avar tribes sacked the nearby Roman city of Salona. The surviving Roman citizens fled to the coast and found Diocletian's massive, abandoned palace. Seeking protection behind its 70-foot-high defensive walls, the refugees broke in and built makeshift houses inside the emperor's grand halls.
+
+Over the next 1,000 years, the palace never stopped being inhabited. Corridors became city streets. Imperial bedrooms were torn down to build medieval apartments. And in the ultimate twist of historical irony, Diocletian's grand octagonal mausoleum—the tomb of Rome's greatest persecutor of Christians—was gutted by the refugees and turned into the Cathedral of Saint Domnius.
+
+Today, Split's old town isn't a museum of ruins; it is a chaotic, living, breathing city built directly into the skeleton of a Roman palace.
 
 ### Interesting Facts
 
@@ -477,9 +487,15 @@ Brač offers an island interlude from Split: ferry travel, white stone villages,
 
 ### History And Background
 
-Brač has been inhabited since prehistoric times. Its stone has been quarried for centuries and used in important Dalmatian buildings, including Diocletian's Palace. Claims that Brač stone was used in the White House are popular but disputed, so it is safer to present it as a local legend rather than a confirmed fact.
+Brač is the largest island in Dalmatia, but its identity is entirely defined by stone. For thousands of years, the brilliant white limestone of Brač has been quarried and shipped across the world. The ancient Romans loved it so much they used it to build Diocletian's Palace in Split. (There is also a very famous local legend that Brač stone was used to build the White House in Washington D.C., though historians debate how much of it actually made it across the Atlantic).
 
-Zlatni Rat, near Bol, is a narrow pebble spit extending into the sea. Its shape changes with winds and currents, making it visually dynamic. Vidova Gora, at 778 meters, is the highest point of the Adriatic islands and offers the classic view down to the beach.
+But the real geographical marvel of Brač is on its southern coast, near the town of Bol.
+
+**Zlatni Rat (The Golden Horn)** is constantly listed as one of the most beautiful beaches in Europe, but what makes it fascinating is its fluid geography. It is not a solid piece of land. It is a massive, 500-meter-long spit of smooth white pebbles that extends straight out into the deep blue Hvar Channel.
+
+Because it juts out into open water, it is entirely at the mercy of the elements. Depending on the direction of the wind and the deep underwater sea currents, the very tip of the beach physically bends. One day it might curl sharply to the left, and the next day it might point straight, or curl to the right. It is a beach that never looks exactly the same twice.
+
+The best way to understand this geography is to stand on top of **Vidova Gora**. At 778 meters, it is the highest peak of any island in the Adriatic Sea. Standing on the edge of the cliff looking straight down at the ocean, you can clearly see the underwater currents wrapping around the golden triangle of Zlatni Rat far below.
 
 ### Interesting Facts
 
@@ -541,11 +557,19 @@ Dubrovnik is the climax of the journey: a walled city, a maritime republic, a UN
 
 ### History And Background
 
-Dubrovnik was historically known as Ragusa. From the 14th century until 1808, the Republic of Ragusa functioned as an independent maritime city-state. It survived between larger powers through trade, diplomacy, tribute, neutrality, and strong fortifications.
+Dubrovnik was historically known as Ragusa. From the 14th century until 1808, the Republic of Ragusa functioned as an independent maritime city-state, and its story is one of the greatest acts of survival in European history.
 
-Its motto was `Liberty is not sold for all the gold in the world.` Ragusa banned slavery in the early 15th century and developed quarantine practices for ships arriving from plague-affected areas. The word quarantine is linked to the Italian `quaranta giorni`, meaning forty days, and Ragusa was one of the early places to formalize such isolation systems.
+Look at a map: Dubrovnik is a tiny speck of a city pinned against the sea by mountains. For centuries, it was squeezed directly between two of the most aggressive, expansionist superpowers in the world: the mighty Venetian Empire to the west, and the massive Ottoman Empire to the east.
 
-The city suffered a major earthquake in 1667, which destroyed much of the old town and killed many residents. It was rebuilt in the Baroque style seen today. In 1991-1992, during the Croatian War of Independence, Dubrovnik was besieged and shelled. Restoration after the war became a major international heritage effort.
+So how did this tiny city survive? Through absolute diplomatic genius and vast amounts of cash.
+
+The Ragusans were master merchants. They built a massive merchant fleet that rivaled Venice and traded goods between Europe and the Middle East. Instead of fighting the Ottomans, they simply paid them a massive annual tribute in gold for the right to remain independent and trade freely within Ottoman lands. While the rest of Christian Europe was at war with the Islamic Ottomans, Dubrovnik's ships sailed right through the blockades, getting richer by the decade.
+
+Because they knew their wealth made them a target, they funneled their profits into building the most impenetrable, over-engineered defensive walls in the Mediterranean.
+
+Their dedication to freedom was absolute. Their motto was `Liberty is not sold for all the gold in the world.` They abolished the slave trade in 1416 (centuries before most of the world). And because their entire economy relied on trade ships arriving from plague-ridden ports in the East, they invented the concept of the _Lazaretto_—forcing incoming sailors to wait in isolation on nearby islands for 40 days (the Italian _quaranta giorni_, which gave the world the word "quarantine").
+
+The city suffered a devastating earthquake in 1667, and was brutally besieged and shelled in 1991 during the Croatian War of Independence. Yet the walls never fell to a hostile army. It was only Napoleon Bonaparte in 1808 who finally tricked his way inside the gates and abolished the Republic.
 
 ### Interesting Facts
 

@@ -703,71 +703,69 @@ Experience the complete journey from Slovenia's alpine beauty to Croatia's entir
 - **Alternative:** Other Split area campsites if Stobreč full
 - €30-40/night (standard campsites)
 
-### Day 12 - Wednesday, June 10: 5-Island Speedboat Tour (Full Day)
+### Day 12 - Wednesday, June 10: Brač Island (Full Day)
 
-**High-energy boat excursion from Split**
+**Ferry + car on island**
 
-#### 10.5-Hour Speedboat Tour
+#### Recommended: Brač Island DIY Trip
 
-- **Departure:** Split Harbor (usually around 8:00 AM)
-- **Cost:** ~€79/person
-- **Type:** Rigid Inflatable Boat (RIB) or speedboat
-- **Vibe:** Fast, adventurous, open-sea cruising
+**Ferry from Split:**
 
-**What you will see:**
+- **Split → Supetar:** 50 minutes (Jadrolinija car ferry)
+- **Cost:** ~€100 total (Car + 2 passengers round trip)
+- **Frequent departures:** Book online a day ahead or arrive early (8:00-9:00 AM ferry recommended).
 
-- **Blue Cave (Biševo Island):** Famous glowing blue sea cave (entry usually extra ~€12-18).
-- **Stiniva Cove (Vis Island):** Dramatic hidden pebble beach between towering cliffs.
-- **Budikovac Island (Blue Lagoon):** Crystal clear water for swimming/snorkeling.
-- **Pakleni Islands:** Stunning archipelago for swimming and relaxation.
-- **Hvar Town (Hvar Island):** Free time to explore this glamorous, historic island town (cafés, yachts, fortress views).
+#### Brač Exploration
 
-**Tips for the day:**
+**Zlatni Rat (Golden Horn):**
 
-- **Bring:** Sunscreen, hat (that won't fly off), sunglasses, swimsuit, towel, water, and motion sickness pills if you are prone to seasickness.
-- **Be prepared:** Speedboats are fast and bumpy on the open sea. It is a thrilling but tiring day!
-- **Return:** Usually around 18:30 in Split. Head back to the campsite for a well-deserved rest.
+- **Croatia's most famous beach**
+- **Unique shape:** Triangular pebble beach extends into sea.
+- **Shape changes** with currents and winds!
+- **Near Bol town** (20 km from Supetar)
+- **Perfect swimming** (Pebble beach - water shoes helpful)
 
-### Day 13 - Thursday, June 11: Choose Your Own Adventure (Leisure Day)
+**Vidova Gora (The Main Reason to take your car):**
+
+- **Highest point** in the Adriatic islands (778m).
+- **Drive:** Narrow mountain road from Bol.
+- **Views:** You look straight down onto Zlatni Rat and across to Hvar.
+- **Photography:** THE iconic shot of the Croatian islands. Absolutely worth the ferry cost.
+
+**Full Day Schedule:**
+
+- **8:30:** Ferry departure Split
+- **9:30-10:00:** Arrive Supetar, drive to Bol (40 mins)
+- **10:30-13:00:** Zlatni Rat beach + swimming
+- **13:00-14:00:** Lunch in Bol town
+- **14:30-15:30:** Drive up to Vidova Gora (epic photography!)
+- **16:00-17:00:** Explore Supetar harbor
+- **18:00-18:30:** Ferry return to Split
+- **19:30:** Arrive back at campsite
+
+### Day 13 - Thursday, June 11: Campsite Recovery & Local Exploration
 
 **Relaxed day before the Dubrovnik push**
 
-After yesterday's intense 10.5-hour speedboat tour, today is about flexibility. Decide how you feel and choose from these three options:
+After yesterday's long island excursion, today is about true relaxation, history, and avoiding any more boats.
 
-#### Option A: High Energy - Brač Island via Car Ferry (~€100)
+#### Morning: True Recovery
 
-**Best for:** Photographers wanting the iconic Vidova Gora view.
+- **Sleep in!** Enjoy the pool and beach at Camping Stobreč Split (the swimming pools will be open!).
+- **Breakfast:** Grab fresh pastries from the campsite bakery and eat by the water.
+- **Kayak:** Launch your inflatable kayak directly from the calm, protected bay on the north side of the campsite.
 
-- **Ferry:** Take the car ferry from Split to Supetar (book ahead).
-- **Drive:** 40 minutes across the island to Bol.
-- **Vidova Gora:** Drive up the highest peak (778m) for the famous aerial photo looking down at Zlatni Rat.
-- **Zlatni Rat:** Spend the afternoon at the shape-shifting pebble beach.
-- **Note:** Adds significant driving and logistical stress to your recovery day.
+#### Afternoon Local Options (Choose One):
 
-#### Option B: Medium Energy - Brač Island via Direct Catamaran (~€100)
-
-**Best for:** A stress-free beach day at Zlatni Rat without driving.
-
-- **Ferry:** Take the passenger-only catamaran directly from Split to Bol.
-- **Relax:** Walk (or take a water taxi) to Zlatni Rat beach.
-- **Note:** Zero driving stress, but you cannot easily get to the Vidova Gora mountain viewpoint.
-
-#### Option C: Low Energy - Campsite & Split Local Exploration (~€10)
-
-**Best for:** True recovery, history, and avoiding more boats.
-
-- **Morning:** Sleep in! Enjoy the pool and beach at Camping Stobreč Split (the swimming pools will definitely be open in June!).
-- **Afternoon Local Options:**
-  - **Trogir (UNESCO):** Drive 30 km to this tiny, stunning medieval island-town.
-  - **More Split City Time:** Return to Diocletian's Palace, visit the Green Market for local products, the Archaeological Museum, the Meštrović Gallery, or just enjoy cafés on the Riva promenade.
-  - **Marjan Hill 🚴:** Bike or walk the dedicated paths in this pine forest park for multiple viewpoints over Split and the islands. Great shaded escape from the city.
-- **Evening:** Relaxed dinner in Split or back at the campsite.
-- **Highly Recommended:** This is the perfect balance after a long boat day.
+- **Option A: Trogir (UNESCO):** Drive 30 km north to this tiny, stunning medieval island-town connected by a bridge. Wander the labyrinth of marble streets and climb the Kamerlengo Fortress. Much less crowded than Split.
+- **Option B: More Split City Time:** Return to Diocletian's Palace. Visit the Green Market for local products, the Archaeological Museum, the Meštrović Gallery, or just enjoy cafés on the Riva promenade.
+- **Option C: Marjan Hill 🚴:** Bike or walk the dedicated paths in this pine forest park above Split for multiple viewpoints over the city and islands. Great shaded escape from the heat.
 
 #### Evening (18:00-21:00)
 
-- **Pack for Dubrovnik** (checking out tomorrow morning)
-- Early to bed - big drive tomorrow (230 km to Dubrovnik)
+- **Dinner:** Walk 5 minutes from the campsite into Stobreč fishing village for authentic, affordable seafood (skip the Split tourist traps tonight).
+- **Pack for Dubrovnik** (checking out tomorrow morning).
+- Early to bed - big drive tomorrow (230 km to Dubrovnik).
 
 ---
 
